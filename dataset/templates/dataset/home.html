@@ -63,7 +63,8 @@
             <input placeholder="Enter No. of rows that you want" type="number" name="rows" class="rows" id="rows">
 
             <div id="columnInputs">
-
+                <input placeholder="Enter the main Domain (as name)" type="text" name='Domain_0' class='Domain_0' id='Domain_0'>
+                <input placeholder="Enter the Subcategory (as number)" type="number" name="Subcategory_0" class='Subcategory_0' id="Subcategory_0">
             </div>
           
             <!-- <input placeholder="Enter the main Domain (as name)" type="text" name="Domain" class="Domain" id="Domain">
@@ -71,13 +72,13 @@
             <input placeholder="Enter the Sub Category (as number)" type="number" name="Subcategory" class="Subcategory" id="Subcategory"> -->
         
             <button type="button" class="btn btn-outline-light" onclick="addColumn()">Add Column</button>
-            <input type="hidden" name="num_columns" id="num_columns" value="0">
+            <input type="hidden" name="num_columns" id="num_columns" value="1">
                 {% csrf_token %}
             <button type="submit" class="btn btn-outline-light">Generate CSV</button>
         </form>
     </div>
     <script>
-        let columnCount=0;
+        let columnCount=1;
         function addColumn(){
             var columnInputs = document.getElementById("columnInputs")
             var i = columnCount;
@@ -99,6 +100,8 @@
             columnInputs.appendChild(domainInput);
             columnInputs.appendChild(subcategoryinput);
 
+            
+            
             columnCount++;
             document.getElementById("num_columns").value=columnCount;
         }

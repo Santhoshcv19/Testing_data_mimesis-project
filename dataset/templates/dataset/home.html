@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <style>
+        body{
+            background-color: black;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hello World</h1>
+        <form action="{% url 'generate_csv'%}">
+            <select id="Country" name="Country">
+                <option value="" disabled selected>CHOOSE YOUR COUNTRY REGION:</option>
+                <option value="Czech">Czech</option>
+                <option value="Danish">Danish</option>
+                <option value="German">German</option>
+                <option value="Austrian German">Austrian German</option>
+                <option value="Swiss German">Swiss German</option>
+                <option value="Greek">Greek</option>
+                <option value="English">English</option>
+                <option value="Australian English">Australian English</option>
+                <option value="Canadian English">Canadian English</option>
+                <option value="British English">British English</option>
+                <option value="Spanish">Spanish</option>
+                <option value="Mexican Spanish">Mexican Spanish</option>
+                <option value="Estonian">Estonian</option>
+                <option value="Farsi">Farsi</option>
+                <option value="Finnish">Finnish</option>
+                <option value="French">French</option>
+                <option value="Hungarian">Hungarian</option>
+                <option value="Icelandic">Icelandic</option>
+                <option value="Italian">Italian</option>
+                <option value="Japanese">Japanese</option>
+                <option value="Kazakh">Kazakh</option>
+                <option value="Korean">Korean</option>
+                <option value="Dutch">Dutch</option>
+                <option value="Belgium Dutch">Belgium Dutch</option>
+                <option value="Norwegian">Norwegian</option>
+                <option value="Polish">Polish</option>
+                <option value="Portugese">Portugese</option>
+                <option value="Brazilian Portugese">Brazilian Portugese</option>
+                <option value="Russian">Russian</option>
+                <option value="Slovak">Slovak</option>
+                <option value="Swedish">Swedish</option>
+                <option value="Turkish">Turkish</option>
+                <option value="Ukrainian">Ukrainian</option>
+                <option value="Chinese">Chinese</option>
+            </select>
+
+        <!-- {% if generic %}
+            <p>Current Locale is:{{ generic.locale.name }}</p>
+        {% else %}
+            <p>Current Locale is:</p>
+        {% endif %} -->
+        
+        
+            <input placeholder="Enter No. of Columns that you want" type="number" name="columns" class="columns" id="columns">
+ 
+            <input placeholder="Enter No. of rows that you want" type="number" name="rows" class="rows" id="rows">
+           
+        
+            <input placeholder="Enter the main Domain (as name)" type="text" name="Domain" class="Domain" id="Domain">
+            
+            <input placeholder="Enter the Sub Category (as number)" type="number" name="Subcategory" class="Subcategory" id="Subcategory">
+
+                {% csrf_token %}
+            <button type="submit" class="btn btn-outline-light">Generate CSV</button>
+        </form>
+    </div>
+</body>
+</html>

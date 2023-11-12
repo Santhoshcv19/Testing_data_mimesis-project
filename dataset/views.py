@@ -202,7 +202,7 @@ def generate_csv(request):
     filename = "Dataset2.csv"
     response = HttpResponse(content_type='text/csv')
     response['Content-Disposition'] = 'attachment; filename="Dataset2.csv"'
-    with open(filename, 'r') as csv_file:
+    with open(filename, 'r',encoding="utf8") as csv_file:
         response.write(csv_file.read())
     
     return response

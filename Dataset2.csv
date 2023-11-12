@@ -1,1001 +1,1001 @@
-,Address_city,Transport_airplane
-0,Zion,Diamond DA62
-1,Waco,Piaggio P.180 Avanti
-2,Las Vegas,Hawker Siddeley HS 748
-3,Mequon,British Aerospace Jetstream 41
-4,Inglewood,De Havilland Canada DHC-3 Otter
-5,Altus,Gulfstream V
-6,Mamaroneck,Boeing 787-8
-7,Kinston,Cessna Citation Mustang
-8,Durant,Antonov An-158
-9,Cuyahoga Falls,Lockheed L-1011 Tristar
-10,Fort Myers,LET 410
-11,Overland Park,Embraer Lineage 1000
-12,El Monte,Douglas DC-6
-13,Cape Coral,Embraer Phenom 100
-14,Ballwin,De Havilland Canada DHC-8-200 Dash 8
-15,Westfield,Yakovlev Yak-42
-16,Monroe,Piper PA-46
-17,Elizabeth,De Havilland DH.104 Dove
-18,Linden,Boeing 777-200
-19,Caldwell,Lockheed L-1011 Tristar
-20,St. Louis,McDonnell Douglas MD-82
-21,New Port Richey,Boeing 747SR
-22,Somerville,McDonnell Douglas MD-90
-23,Holladay,Douglas DC-9-20
-24,Sugar Hill,Boeing 737 MAX 8
-25,Dublin,Bombardier BD-100 Challenger 300
-26,Shoreline,Airbus A340-600
-27,Tualatin,Convair CV-240
-28,Beckley,Convair Convair CV-640
-29,Alexandria,Beechcraft 1900
-30,Newnan,Airbus A320neo
-31,Escondido,Tupolev Tu-154
-32,Bedford,Boeing 747-400
-33,Bonita Springs,Airbus A310-300
-34,Troy,De Havilland DH.114 Heron
-35,Walker,Boeing 767-300
-36,Hazleton,Learjet 36
-37,Nicholasville,Gulfstream V
-38,Jupiter,McDonnell Douglas MD-11
-39,Georgetown,Antonov AN-32
-40,Gainesville,Douglas DC-8-62
-41,Beaumont,Antonov AN-140
-42,Commerce City,Avro RJ85
-43,Ardmore,Cessna Citation V
-44,Terrell,British Aerospace Jetstream 41
-45,Buffalo Grove,De Havilland Canada DHC-7 Dash 7
-46,Batavia,Embraer 190
-47,Pleasant Hill,Fokker F28 Fellowship
-48,Sioux City,Boeing 737-200
-49,Grayslake,Boeing 717
-50,Cedar Rapids,Boeing 727-100
-51,Rialto,Boeing 737-300
-52,St. Clair Shores,Ilyushin IL114
-53,Homewood,Lockheed L-182
-54,American Fork,Learjet 36
-55,Carol Stream,Douglas DC-9-20
-56,Daly City,Piper PA-46
-57,Provo,LET 410
-58,Yuma,Canadair Challenger
-59,Ramsey,Fairchild Dornier Do.228
-60,Gaithersburg,Shorts SC-7 Skyvan
-61,Lufkin,Antonov An-148
-62,Fort Collins,Ilyushin IL96
-63,Xenia,Lockheed L-182
-64,Columbus,Sukhoi Superjet 100-95
-65,St. George,Cessna Citation CJ3
-66,Arvada,De Havilland Canada DHC-5 Buffalo
-67,Waukesha,Yakovlev Yak-42
-68,Rutland,Cessna CitationJet
-69,Fairbanks,Airbus A300B4
-70,Moorpark,Airbus A321neo
-71,Scarsdale,Cessna Citation III
-72,Albuquerque,Boeing 737 MAX 9
-73,Pottstown,Convair CV-240
-74,Ridgewood,Ilyushin IL62
-75,Massillon,Embraer 175
-76,Torrance,COMAC C919
-77,Hobart,Saab SF340A/B
-78,Carlisle,McDonnell Douglas MD-82
-79,Forest Park,De Havilland Canada DHC-3 Otter
-80,Frisco,Cessna Citation VI
-81,Claremore,Tecnam P2010
-82,Yucaipa,De Havilland Canada DHC-2 Beaver
-83,Provo,Pipistrel Virus
-84,Duluth,Antonov AN-140
-85,Green,Boeing 747-200
-86,Niagara Falls,Pipistrel Sinus
-87,Concord,Pipistrel Virus
-88,Dinuba,De Havilland Canada DHC-8-300 Dash 8
-89,Plainview,Boeing 747-300M
-90,Chelsea,Shorts SC-5 Belfast
-91,Country Club Hills,Pilatus PC-12
-92,Crestview,Airbus A319
-93,Yuba City,Douglas DC-10-30
-94,North Plainfield,Canadair Regional Jet 550
-95,Balch Springs,Ilyushin IL86
-96,Forest Grove,Airbus A310-300
-97,Fort Myers,Tecnam P2008
-98,Corinth,TL Ultralight TL-96 Star
-99,Kettering,Lockheed L-1011 Tristar
-100,Hollister,Boeing 747-200M
-101,Bellflower,Airbus A300B2
-102,Seymour,Tecnam P92 SeaSky
-103,Minnetonka,British Aerospace Jetstream 32
-104,Searcy,Embraer 170
-105,Greenville,COMAC C919
-106,LaGrange,Boeing 737-200
-107,Long Branch,Sukhoi Superjet 100-95
-108,Pullman,Tecnam P92 Echo
-109,Rancho Cucamonga,Douglas DC-6
-110,Monterey,Honda HA-420
-111,Fremont,"Airbus A300-600ST ""Beluga"""
-112,Bryan,De Havilland Canada DHC-5 Buffalo
-113,Charleston,Shorts SC-7 Skyvan
-114,Lebanon,Fokker 70
-115,Raymore,Cessna Citation X
-116,Ozark,Embraer 190
-117,Salina,Fokker F27 Friendship
-118,Ferndale,Embraer Praetor 650
-119,Indio,Harbin Yunshuji Y12
-120,Radcliff,McDonnell Douglas MD-87
-121,Daphne,De Havilland Canada DHC-4 Caribou
-122,Racine,Shorts SC-7 Skyvan
-123,Harrisburg,BAe 146-100
-124,Midland,Tecnam P92 Echo
-125,Bartlett,De Havilland DH.104 Dove
-126,El Mirage,Shorts SC-5 Belfast
-127,Superior,BAe 146-300
-128,Pocatello,Beechcraft Baron
-129,Avenal,Cessna 152
-130,Roswell,Cessna Citation CJ4
-131,Palm Beach Gardens,Embraer EMB 120 Brasilia
-132,Wilson,Fairchild Dornier Do.228
-133,Richardson,Shorts SC-5 Belfast
-134,Paramount,Boeing 747-400
-135,Garfield Heights,British Aerospace Jetstream 32
-136,Lindenhurst,Boeing 747-100
-137,Thomasville,Airbus A340-500
-138,Deer Park,Diamond DA42
-139,Eureka,Canadair Regional Jet 700
-140,Frankfort,ICON A5
-141,Newnan,Learjet C-21A
-142,Montgomery,Boeing 737 MAX 9
-143,North Tonawanda,Antonov AN-26
-144,Hoover,Boeing 737 MAX 7
-145,Frankfort,Team Rocket F1
-146,Temple Terrace,Gulfstream/Rockwell (Aero) Turbo Commander
-147,Mattoon,Airbus A320
-148,Fayetteville,Embraer Legacy 600
-149,Lafayette,Dassault Falcon 2000
-150,Hudson,Boeing 777-200LR
-151,Farragut,Airbus A310-300
-152,Westerville,Boeing 747SR Freighter
-153,Albany,Antonov AN-74
-154,East St. Louis,Canadair Challenger
-155,Visalia,Tupolev Tu-154
-156,Texas City,Tecnam P92 SeaSky
-157,Rohnert Park,British Aerospace Jetstream 31
-158,Sycamore,Airbus A320
-159,Boulder,Gulfstream G650
-160,North Miami,Tupolev Tu-204
-161,Wildwood,Concorde
-162,Avon,ICON A5
-163,Cookeville,Tecnam P2006T
-164,Prattville,Boeing 747-300M
-165,Leander,ICON A5
-166,Palo Alto,Cessna Citation II
-167,Oro Valley,De Havilland Canada DHC-2 Beaver
-168,Elk River,Boeing 747SR Freighter
-169,West Hollywood,Gulfstream G280
-170,Palm Beach Gardens,Boeing 737 MAX 8
-171,Cicero,Antonov An-225 Mriya
-172,Moline,Canadair Regional Jet 550
-173,Novato,Boeing 747-100
-174,Howard,"Airbus A300-600ST ""Beluga"""
-175,Pinellas Park,Gulfstream V
-176,Biloxi,Douglas DC-8-50
-177,Schaumburg,Boeing 747-200M
-178,Brea,Cessna Citation III
-179,Hermosa Beach,British Aerospace Jetstream 41
-180,Pasco,Grumman G-21 Goose
-181,Bullhead City,Airbus A380-800
-182,Tahlequah,Airbus A319neo
-183,Rocky River,Boeing 757-200
-184,Ellensburg,De Havilland Canada DHC-5 Buffalo
-185,Camarillo,Airbus A321neo
-186,Gloucester,Gulfstream V
-187,Vacaville,McDonnell Douglas MD-90
-188,York,Airbus A310-200
-189,Elgin,Boeing 777-8
-190,Costa Mesa,Airbus A220-300
-191,Santee,Ilyushin IL86
-192,Beverly Hills,Boeing 747-200F
-193,Spring Hill,Robin ATL
-194,Agawam,BAe 146-300
-195,Tualatin,McDonnell Douglas MD-11F
-196,Munster,Tecnam P2002 Sierra
-197,Richfield,Bombardier BD-700 Global 5000
-198,Hillsboro,Douglas DC-8-62
-199,Grapevine,Sukhoi Superjet 100-95
-200,Orem,Boeing 747-300
-201,Manchester,Convair Convair CV-640
-202,Ashtabula,Cessna Citation I
-203,North Tonawanda,Boeing 787-9
-204,Homestead,Boeing 717
-205,Poughkeepsie,Boeing 747SP
-206,Birmingham,Boeing 747-200M
-207,Thornton,Pipistrel Taurus
-208,Haltom City,Boeing 747-300
-209,Goose Creek,Fokker 100
-210,Issaquah,Antonov AN-140
-211,Citrus Heights,Tecnam P2010
-212,San Rafael,McDonnell Douglas MD-90
-213,LaGrange,De Havilland Canada DHC-7 Dash 7
-214,Sevierville,Boeing 747-200
-215,Yonkers,Boeing 777-200 Freighter
-216,Wyandotte,Airbus A320neo
-217,Twin Falls,Ilyushin IL96
-218,Reedley,BAe 146-200
-219,New Lenox,Boeing 747-200M
-220,Northbrook,De Havilland Canada DHC-2 Beaver
-221,Sahuarita,De Havilland Canada DHC-8-400 Dash 8Q
-222,Menomonee Falls,Embraer RJ145
-223,Rochester,Cessna Citation II
-224,Hercules,Douglas DC-8-50
-225,San Bernardino,Embraer 195
-226,Kerrville,Embraer Legacy 500
-227,Winter Haven,Cessna Citation I
-228,Parkland,Reims-Cessna F406 Caravan II
-229,Deer Park,Douglas DC-8-50
-230,Escondido,Aquila A 210
-231,Milford,Airbus A340-600
-232,La Vista,Boeing 737-600
-233,Zion,Convair Convair CV-600
-234,Delaware,Douglas DC-9-30
-235,Suffolk,Cessna Citation I
-236,Hermosa Beach,Concorde
-237,Anoka,BAe 146-300
-238,Evanston,Reims-Cessna F406 Caravan II
-239,Covington,Airbus A321neo
-240,Radcliff,Yakovlev Yak-40
-241,Ormond Beach,Cessna Citation CJ4
-242,Daphne,Beriev Be-200 Altair
-243,South San Francisco,Cessna Citation CJ2
-244,Bellwood,Airbus A350-1000
-245,Maricopa,Boeing 737-200
-246,Scranton,Airbus A300C4
-247,Ansonia,Dassault Falcon 50
-248,Millville,Lockheed L-188 Electra
-249,Puyallup,Douglas DC-8-72
-250,Crystal,Tupolev Tu-144
-251,La Vergne,Boeing 747-300
-252,St. Cloud,Convair Convair CV-640
-253,Greeley,Embraer E195-E2
-254,Kearny,Convair Convair CV-640
-255,Pocatello,Cessna Citation CJ3
-256,Cheyenne,Gulfstream G650
-257,Fayetteville,De Havilland Canada DHC-8-100 Dash 8
-258,Kearney,Boeing 737 MAX 10
-259,Rockwall,Canadair Challenger
-260,Holyoke,CASA/IPTN CN-235
-261,Staunton,Boeing 747-100
-262,Tifton,Tupolev Tu-204
-263,North Port,Antonov AN-74
-264,Lawrence,Hawker Siddeley HS 748
-265,Selma,Douglas DC-10-10
-266,Weirton,Fokker 70
-267,Port Angeles,Airbus A321neo
-268,St. Charles,Learjet 60
-269,Pharr,Airbus A321
-270,Lemoore,BAe 146-100
-271,Sunrise,"Airbus A300-600ST ""Super Transporter"""
-272,Cutler Bay,Airbus A300C4
-273,Chester,Ilyushin IL76
-274,Collinsville,Boeing 737-200
-275,Upper Arlington,Team Rocket F1
-276,Huntington,Boeing 787-9
-277,North Ogden,Douglas DC-10-30
-278,Coconut Creek,Convair CV-240
-279,San Juan Capistrano,Antonov AN-28
-280,La Crosse,Saab 2000
-281,Highland Village,Boeing 747SR
-282,Tulare,Boeing 747-8F
-283,North Lauderdale,Gulfstream Aerospace G-159 Gulfstream I
-284,McAllen,Convair CV-580
-285,Carson,Canadair Regional Jet 200
-286,Oak Creek,Boeing 757-200
-287,Mattoon,Embraer Praetor 600
-288,Mason City,"Airbus A300-600ST ""Super Transporter"""
-289,Big Spring,CASA/IPTN CN-235
-290,Morristown,Aquila A 210
-291,Oviedo,Learjet 60
-292,Gresham,Honda HA-420
-293,Opelika,Dassault Falcon 900
-294,Easley,Piper PA-31 Navajo
-295,Brownsburg,Douglas DC-8-50
-296,Shelbyville,McDonnell Douglas MD-11F
-297,Mountlake Terrace,Aerospatiale SN.601 Corvette
-298,Queen Creek,ICON A5
-299,Oro Valley,Antonov An-148
-300,Ypsilanti,Tupolev Tu-154
-301,Tempe,Boeing 737-400
-302,Rahway,Dassault Falcon 900
-303,Middletown,Cessna Citation CJ2
-304,Taylor,Pipistrel Taurus
-305,Gaithersburg,Boeing 727-100
-306,Horn Lake,Airbus A319
-307,Temple Terrace,Tecnam P2002 Sierra
-308,Laconia,Tecnam P96
-309,Glendale,Dassault Falcon 50
-310,Edinburg,Tupolev Tu-144
-311,Goose Creek,Shorts SD.330
-312,Cuyahoga Falls,Grumman G-21 Goose
-313,Bloomingdale,Airbus A340-200
-314,Killeen,Airbus A300B2
-315,Urbana,Cessna Citation II
-316,Shelbyville,Embraer EMB 120 Brasilia
-317,Taunton,Hawker Siddeley HS 748
-318,Gary,Pipistrel Virus
-319,Fountain Hills,Curtiss C-46 Commando
-320,Alpharetta,Ilyushin IL86
-321,West Valley City,Boeing 767-200
-322,Orinda,Boeing 777-200
-323,Garfield,Tecnam P2002 Sierra
-324,Pottstown,Airbus A321
-325,Simi Valley,Pilatus PC-6 Turbo Porter
-326,West Des Moines,De Havilland Canada DHC-7 Dash 7
-327,Glenview,Douglas DC-9-50
-328,Iowa City,De Havilland Canada DHC-8-400 Dash 8Q
-329,Eagan,Cessna Citation III
-330,Susanville,De Havilland Canada DHC-3 Otter
-331,Manhattan Beach,Learjet 36
-332,Brownsville,Cessna Citation CJ2
-333,Port Arthur,Cessna 152
-334,Spokane,Tecnam P2008
-335,Arvada,Douglas DC-9-30
-336,Waxahachie,Embraer RJ135
-337,Troy,Piaggio P.180 Avanti
-338,Marina,Boeing 737-200
-339,Greensboro,Boeing 757F
-340,Saco,Shorts SC-7 Skyvan
-341,Victorville,Partenavia P.68
-342,Fond du Lac,Boeing 747-200F
-343,Lawrence,Tecnam P92 SeaSky
-344,Lake Forest,Airbus A350-900
-345,Vestavia Hills,Boeing 737-300
-346,Lake Havasu City,Canadair Regional Jet 900
-347,Atascadero,Antonov AN-24
-348,Rockford,Concorde
-349,Ferndale,Canadair Regional Jet 200
-350,Redding,Airbus A319
-351,Twin Falls,Boeing 757-300
-352,St. Matthews,Avro RJ70
-353,Ypsilanti,Douglas DC-6
-354,Opelika,Boeing 727-100
-355,Worcester,GippsAero GA8 Airvan
-356,La Cañada Flintridge,Cessna Citation Excel
-357,Biddeford,Embraer Legacy 500
-358,Manitowoc,Douglas DC-9-10
-359,Terre Haute,Douglas DC-9-50
-360,Palm Beach Gardens,Douglas DC-8-72
-361,Blue Springs,Cessna Citation Sovereign
-362,Urbandale,Antonov An-158
-363,Coppell,Harbin Yunshuji Y12
-364,Ontario,Boeing 777-300
-365,Holyoke,Embraer Legacy 450
-366,Marquette,Cessna Citation II
-367,Lebanon,Cessna Citation VI
-368,San Bruno,Airbus A330-800neo
-369,San Angelo,Grumman G-21 Goose
-370,Beverly,Boeing 777-8
-371,St. Charles,De Havilland Canada DHC-2 Beaver
-372,Sugar Land,Gulfstream IV
-373,Kerrville,"Airbus A300-600ST ""Super Transporter"""
-374,Rockville Centre,Airbus A350-1000
-375,Ames,Boeing 727-100
-376,Granite City,Junkers Ju 52/3M
-377,Chelsea,McDonnell Douglas MD-88
-378,Council Bluffs,Cessna Citation V
-379,Vestavia Hills,Beriev Be-200 Altair
-380,Fountain Valley,Learjet 36
-381,Vicksburg,Boeing 747-400F
-382,Westmont,Boeing 707
-383,Goose Creek,Cessna Citation Mustang
-384,Lemon Grove,Boeing 737-300
-385,Woodbury,Tecnam P2002 Sierra
-386,Grapevine,Shorts SD.330
-387,Post Falls,Airbus A310-300
-388,Lake Havasu City,De Havilland DH.104 Dove
-389,Albany,"Airbus A300-600ST ""Beluga"""
-390,De Pere,Tupolev Tu-154
-391,Hempstead,Airbus A300C4
-392,Casper,Convair CV-240
-393,Sheridan,British Aerospace Jetstream 41
-394,Marietta,De Havilland Canada DHC-7 Dash 7
-395,Oxnard,Partenavia P.68
-396,Shelton,Honda HA-420
-397,Rockford,Cirrus SF50 Vision Jet
-398,Mattoon,Airbus A300B4
-399,Laguna Hills,Embraer Legacy 450
-400,Coralville,Boeing 737 MAX 9
-401,Leawood,Cessna 172
-402,Talladega,Cessna 172 Cutlass RG
-403,Tarpon Springs,Cessna Citation CJ3
-404,Homewood,Boeing 747-8F
-405,Americus,Antonov AN-26
-406,Puyallup,De Havilland DH.104 Dove
-407,Corona,Douglas DC-8-50
-408,Centennial,Cessna 172
-409,Attleboro,Boeing 747-8F
-410,North Ogden,Shorts SD.330
-411,Longview,Pilatus PC-6 Turbo Porter
-412,Hobbs,Cessna 172 Cutlass RG
-413,New Britain,Cessna 172
-414,Venice,Ilyushin IL62
-415,Appleton,Bombardier Global Express
-416,Eden Prairie,Tupolev Tu-204
-417,Pocatello,BAe 146-300
-418,San Clemente,Boeing 777-200ER
-419,New Britain,Douglas DC-9-10
-420,Findlay,Tecnam P2006T
-421,Leawood,Fairchild Dornier Do.228
-422,Watertown,Airbus A330-200
-423,Lindenwold,Bombardier 415
-424,Newburgh,COMAC C919
-425,Niles,Boeing 777-200LR
-426,Lake Zurich,McDonnell Douglas MD-81
-427,Sherman,Antonov AN-124 Ruslan
-428,Margate,Cessna 182 Skylane
-429,Fort Myers,LET 410
-430,Arcadia,Convair CV-580
-431,Hinsdale,Fokker 100
-432,Fairborn,Bombardier Global Express
-433,New Lenox,Cessna 210 Centurion
-434,Glassboro,Boeing 737-800
-435,Oxnard,Tupolev Tu-134
-436,Apple Valley,Boeing 787-10
-437,Layton,Boeing 717
-438,Rancho Cordova,Ilyushin IL62
-439,Laconia,"Airbus A330-700 ""Beluga XL"""
-440,Apopka,British Aerospace ATP
-441,Ansonia,Boeing 777-200LR
-442,Tallahassee,Pilatus Britten-Norman BN-2A Mk III Trislander
-443,West Springfield,Avro RJ100
-444,Springfield,Tecnam P2006T
-445,Moreno Valley,Airbus A350-900
-446,Tigard,Embraer Legacy 500
-447,West Bend,Socata TB-20 Trinidad
-448,Hamilton,Harbin Yunshuji Y12
-449,College Station,Airbus A300C4
-450,North Chicago,Boeing 737-200
-451,Boulder,Antonov An-225 Mriya
-452,Radcliff,"Airbus A330-700 ""Beluga XL"""
-453,Fairfax,Embraer Praetor 650
-454,Claremore,De Havilland DH.114 Heron
-455,Cedar City,Fokker F27 Friendship
-456,Grand Prairie,Boeing 727-100
-457,Angleton,CASA/IPTN CN-235
-458,Hialeah,Cessna Citation VII
-459,Southaven,Sukhoi Superjet 100-95
-460,Bentonville,Boeing 777-300
-461,Edina,McDonnell Douglas MD-88
-462,Ashtabula,Ilyushin IL76
-463,Twentynine Palms,Airbus A350-1000
-464,Dothan,Embraer Legacy 450
-465,Cliffside Park,Airbus A350-1000
-466,Winter Park,Convair CV-580
-467,Citrus Heights,Tupolev Tu-134
-468,Richmond,British Aerospace ATP
-469,Hinesville,Antonov An-158
-470,Rolling Meadows,De Havilland Canada DHC-6 Twin Otter
-471,La Porte,De Havilland Canada DHC-8-400 Dash 8Q
-472,Royal Oak,Boeing 737-300
-473,Monterey,Fairchild Dornier Do.328
-474,Gresham,Boeing 727-200
-475,Selma,Dassault Falcon 7X
-476,Camas,NAMC YS-11
-477,South Portland,Airbus A380-800
-478,Tarpon Springs,Antonov AN-26
-479,Lemoore,Avro RJ100
-480,Bessemer,Boeing 777-200 Freighter
-481,Fitchburg,McDonnell Douglas MD-81
-482,Redmond,Cessna 172 Cutlass RG
-483,Pinellas Park,Tecnam P2010
-484,Durant,Canadair Regional Jet 700
-485,Livermore,"Airbus A300-600ST ""Super Transporter"""
-486,Rockford,Junkers Ju 52/3M
-487,New Orleans,McDonnell Douglas MD-11F
-488,Minot,Airbus A310-300
-489,Passaic,Fokker 70
-490,Beverly Hills,De Havilland DH.104 Dove
-491,Savannah,Canadair Regional Jet 1000
-492,Grand Prairie,CASA/IPTN CN-235
-493,Union City,Boeing 747-200F
-494,Hudson,Douglas DC-9-50
-495,Chula Vista,Boeing 777-200 Freighter
-496,Lake Elsinore,Tecnam P96
-497,Blacksburg,Convair Convair CV-640
-498,Oakland Park,Boeing 737-500
-499,Lake Worth,Boeing 737 MAX 9
-500,Petersburg,Antonov AN-124 Ruslan
-501,Eastlake,Boeing 757-200
-502,Prescott,Boeing 737-800
-503,Minneapolis,Shorts SD.330
-504,Klamath Falls,Embraer Legacy 600
-505,Kalispell,British Aerospace ATP
-506,Xenia,British Aerospace Jetstream 31
-507,North Little Rock,Gulfstream V
-508,Passaic,Canadair Regional Jet 700
-509,Kyle,Boeing 737 MAX 7
-510,Meridian,Airbus A318
-511,Brandon,Bombardier 415
-512,Alamogordo,Antonov An-148
-513,West Fargo,Boeing 777-200ER
-514,Trotwood,Antonov AN-140
-515,Sparks,Fokker 50
-516,Hudson,Boeing 747SR Freighter
-517,Lackawanna,Socata TB-20 Trinidad
-518,Oshkosh,Canadair Challenger
-519,Prairie Village,LET 410
-520,Tifton,Boeing 747-300M
-521,Fishers,Airbus A310-200
-522,DeKalb,Dassault Falcon 50
-523,Green Bay,McDonnell Douglas MD-88
-524,Central Point,Antonov AN-74
-525,Lauderdale Lakes,Airbus A320
-526,Temple,Evektor SportStar
-527,Riverton,Cessna Citation X
-528,Kearny,Boeing 747SR
-529,Cleveland,Avro RJ85
-530,Ashtabula,Airbus A220-300
-531,Hutchinson,Piper PA-28
-532,Mountlake Terrace,McDonnell Douglas MD-87
-533,Webster Groves,De Havilland Canada DHC-8-400 Dash 8Q
-534,Beverly Hills,Piper PA-31 Navajo
-535,Sebastian,NAMC YS-11
-536,Palm Desert,Fokker 100
-537,Rochester Hills,Embraer 195
-538,Waxahachie,Robin ATL
-539,Venice,Partenavia P.68
-540,Hobbs,"Airbus A330-700 ""Beluga XL"""
-541,Tampa,Cessna Citation V
-542,League City,Embraer Legacy 450
-543,Ogden,Antonov AN-26
-544,Lakeville,Shorts SC-7 Skyvan
-545,Blythe,Tecnam P92 SeaSky
-546,Loma Linda,Curtiss C-46 Commando
-547,Covina,Boeing 747-300
-548,Grand Forks,Piper PA-31 Navajo
-549,Reading,Antonov AN-32
-550,Idaho Falls,Shorts SD.330
-551,Owatonna,Embraer Legacy 450
-552,Kissimmee,De Havilland Canada DHC-2 Beaver
-553,Dubuque,Airbus A220-300
-554,Leesburg,"Airbus A300-600ST ""Super Transporter"""
-555,Kannapolis,Airbus A220-100
-556,Shakopee,Bombardier Global Express
-557,East Chicago,Lockheed L-1049 Super Constellation
-558,Sayreville,Cessna Citation X
-559,Grand Forks,Antonov An-158
-560,Alpharetta,Honda HA-420
-561,Sayreville,Embraer Lineage 1000
-562,Painesville,Douglas DC-9-40
-563,Donna,Embraer Lineage 1000
-564,Maple Heights,Diamond DA42
-565,San Mateo,Boeing 777-9
-566,Owensboro,Boeing 737-800
-567,Tyler,Tecnam P96
-568,Mineral Wells,Fairchild Dornier 328JET
-569,Banning,Embraer Legacy 450
-570,Santa Fe Springs,Reims-Cessna F406 Caravan II
-571,Burien,Airbus A330-200
-572,Yuma,Aerospatiale SN.601 Corvette
-573,Ventura,Fokker F27 Friendship
-574,Lenoir,Pipistrel Taurus
-575,Augusta,Embraer E195-E2
-576,Lakeville,Douglas DC-9-50
-577,Cleveland Heights,Ilyushin IL86
-578,Eagle Pass,Boeing 737-900
-579,Matteson,Boeing 747-400F
-580,Palatine,Learjet 36
-581,Idaho Falls,Boeing 767-400ER
-582,La Cañada Flintridge,Airbus A330-300
-583,Caldwell,Evektor SportStar
-584,Brockton,Shorts SD.330
-585,Plattsburgh,Boeing 720B
-586,Mokena,Fokker 100
-587,Greenville,McDonnell Douglas MD-88
-588,Anderson,Antonov AN-32
-589,Gastonia,Boeing 727-200
-590,Bartow,Cessna Citation VII
-591,Issaquah,Fairchild Dornier Do.228
-592,Odessa,De Havilland Canada DHC-8-200 Dash 8
-593,Mount Clemens,Partenavia P.68
-594,Port Huron,BAe 146-100
-595,Victorville,Boeing 737 MAX 10
-596,Lima,Douglas DC-6
-597,Garfield Heights,Airbus A380-800
-598,Harvey,Boeing 757F
-599,Susanville,Boeing 787-10
-600,Grants Pass,Antonov AN-28
-601,Johns Creek,Fairchild Dornier Do.228
-602,Pharr,Shorts SC-7 Skyvan
-603,Victoria,Douglas DC-9-20
-604,Temple,Tecnam P2002 Sierra
-605,Wasco,COMAC C919
-606,Haverhill,British Aerospace ATP
-607,Dania Beach,Bombardier BD-100 Challenger 300
-608,Castle Rock,Tecnam P2002 Sierra
-609,Trenton,Gulfstream V
-610,Chico,Pipistrel Virus
-611,Cartersville,Boeing 737 MAX 8
-612,Petaluma,Boeing 737 MAX 9
-613,Northport,Bombardier 415
-614,Prairie Village,Cessna Citation II
-615,Cambridge,Dassault Falcon 2000
-616,Wheeling,Cessna CitationJet
-617,Madison,Sukhoi Superjet 100-95
-618,Saratoga,Convair Convair CV-600
-619,Jacksonville,Airbus A320neo
-620,Mattoon,Tecnam P96
-621,Springville,Shorts SC-5 Belfast
-622,Lawndale,Embraer Lineage 1000
-623,Central Falls,Airbus A300-600
-624,Ankeny,De Havilland Canada DHC-7 Dash 7
-625,Mokena,Airbus A340-500
-626,Cleveland,BAe 146-100
-627,Douglasville,Shorts SD.360
-628,Cary,British Aerospace Jetstream 41
-629,Belvidere,Boeing 747-100 Freighter
-630,Brunswick,Airbus A319
-631,Anacortes,Boeing 747SR Freighter
-632,Duncanville,Boeing 727-100
-633,Tallahassee,Airbus A380-800
-634,La Mesa,Antonov AN-26
-635,Tualatin,Antonov AN-30
-636,Loves Park,Fairchild Dornier Do.228
-637,Olympia,Pipistrel Virus
-638,Schenectady,Airbus A330-300
-639,Pittsburgh,Cessna 310
-640,Havelock,Boeing 737-200
-641,Sanford,De Havilland Canada DHC-4 Caribou
-642,Sugar Land,Tecnam P2006T
-643,Mequon,Antonov AN-26
-644,Lackawanna,Diamond DA42
-645,Carol Stream,Tupolev Tu-144
-646,Santa Maria,Partenavia P.68
-647,Fond du Lac,British Aerospace Jetstream 32
-648,Wasco,Douglas DC-9-50
-649,Overland Park,Cessna 206 Stationair
-650,Cambridge,Boeing 757F
-651,San Ramon,Embraer RJ140
-652,Concord,Boeing 737 MAX 7
-653,Pompano Beach,Shorts SC-7 Skyvan
-654,Bismarck,Boeing 727-100
-655,Berea,Convair Convair CV-600
-656,Glen Ellyn,Shorts SD.330
-657,Winter Park,Douglas DC-9-10
-658,San Antonio,British Aerospace ATP
-659,Macomb,Pilatus PC-6 Turbo Porter
-660,Rocky Mount,Dassault Falcon 7X
-661,Rohnert Park,Antonov AN-72
-662,Butte-Silver Bow,Lockheed L-182
-663,Fredericksburg,Bombardier Global Express
-664,Valley Stream,Piper PA-31 Navajo
-665,Broomfield,McDonnell Douglas MD-83
-666,Fontana,De Havilland Canada DHC-8-400 Dash 8Q
-667,Wichita Falls,Canadair Regional Jet 700
-668,Ypsilanti,GippsAero GA8 Airvan
-669,Santa Maria,Cessna 182 Skylane
-670,Hanover Park,Douglas DC-8-62
-671,Huber Heights,Canadair Regional Jet 550
-672,South Bend,Airbus A330-800neo
-673,Medford,Grumman G-21 Goose
-674,Tullahoma,Tecnam P2012 Traveller
-675,Bixby,McDonnell Douglas MD-81
-676,Maywood,De Havilland Canada DHC-8-100 Dash 8
-677,Wheat Ridge,Boeing 747-200M
-678,Midvale,Boeing 747-300M
-679,Yuba City,Yakovlev Yak-40
-680,Plainfield,Yakovlev Yak-40
-681,Pico Rivera,British Aerospace ATP
-682,Erlanger,Boeing 777-9
-683,Victorville,Douglas DC-10-10
-684,Berwyn,Embraer RJ140
-685,Lynnwood,Piper PA-28
-686,Troy,Beriev Be-200 Altair
-687,Altus,Concorde
-688,La Quinta,Cessna 177 Cardinal RG
-689,Cupertino,Antonov AN-26
-690,Lansing,Douglas DC-8-72
-691,Santa Ana,Pilatus Britten-Norman BN-2A Mk III Trislander
-692,Sand Springs,Lockheed L-1011 Tristar
-693,Mentor,Sukhoi Superjet 100-95
-694,Springboro,Gulfstream IV
-695,Tooele,Fokker 50
-696,Pinellas Park,Airbus A321
-697,Honolulu,Airbus A350-1000
-698,Norwood,Fokker F27 Friendship
-699,Davie,Pilatus Britten-Norman BN-2A Mk III Trislander
-700,Conway,Boeing 747-400F
-701,Mokena,Tecnam P2012 Traveller
-702,San Mateo,McDonnell Douglas MD-88
-703,Winona,Fairchild Dornier Do.328
-704,San Rafael,Antonov AN-24
-705,Ozark,McDonnell Douglas MD-88
-706,Kyle,Piper PA-44 Seminole
-707,Hazelwood,Mitsubishi Mu-2
-708,Warwick,Embraer E190-E2
-709,Springboro,Boeing 747-100 Freighter
-710,Winter Haven,Embraer Lineage 1000
-711,Glendora,Douglas DC-3
-712,Goleta,Boeing 717
-713,La Vergne,Airbus A310-300
-714,West Chicago,Airbus A319neo
-715,Fairview Heights,Honda HA-420
-716,La Quinta,Boeing 737-600
-717,Oklahoma City,"Airbus A330-700 ""Beluga XL"""
-718,Kingsport,LET 410
-719,Butte-Silver Bow,Canadair Challenger
-720,Owensboro,Boeing 747SP
-721,Yucaipa,Antonov AN-24
-722,Twentynine Palms,Douglas DC-9-10
-723,Nicholasville,Boeing 747-400M
-724,Beverly Hills,TL Ultralight TL-96 Star
-725,Mason City,Airbus A321neo
-726,Forest Lake,Boeing 737 MAX 10
-727,Methuen,De Havilland DH.104 Dove
-728,Ceres,Boeing 747-100
-729,San Angelo,McDonnell Douglas MD-88
-730,Wisconsin Rapids,Ilyushin IL18
-731,North Chicago,De Havilland Canada DHC-2 Turbo-Beaver
-732,Point Pleasant,Embraer 175
-733,Romeoville,Boeing 737-900
-734,North Little Rock,Airbus A318
-735,Taunton,Cessna 172
-736,Spokane,Airbus A330-800neo
-737,Valley Stream,Airbus A380-800
-738,Henderson,Shorts SD.330
-739,Rosenberg,Boeing 747-200F
-740,Temple Terrace,Embraer Phenom 300
-741,Lackawanna,McDonnell Douglas MD-83
-742,Fountain Valley,Diamond DA42
-743,Racine,De Havilland Canada DHC-5 Buffalo
-744,Newburgh,Dassault Falcon 2000
-745,San Luis Obispo,Cessna CitationJet
-746,Beaverton,Douglas DC-6
-747,Crest Hill,Airbus A320
-748,Tupelo,"Airbus A330-700 ""Beluga XL"""
-749,Wenatchee,Boeing 727-100
-750,Spring Valley,Antonov AN-32
-751,Asheville,Boeing 717
-752,Lakeland,Cessna Citation V
-753,Anniston,Douglas DC-8-62
-754,Chickasha,British Aerospace Jetstream 41
-755,Methuen,Boeing 777-8
-756,Florence,Avro RJ100
-757,Morristown,Aerospatiale SN.601 Corvette
-758,Layton,Cessna Citation VI
-759,Santee,Curtiss C-46 Commando
-760,Whittier,Embraer RJ140
-761,Mission,Tupolev Tu-154
-762,Casa Grande,Boeing 747-400M
-763,University City,McDonnell Douglas MD-81
-764,La Crosse,De Havilland Canada DHC-4 Caribou
-765,Scarsdale,Tecnam P92 Echo
-766,East Moline,McDonnell Douglas MD-11C
-767,Belvidere,Embraer Lineage 1000
-768,San Angelo,Boeing 747-400
-769,Castle Rock,Airbus A320neo
-770,Northfield,"Airbus A330-700 ""Beluga XL"""
-771,Shelby,Cessna Citation I
-772,Garfield Heights,Boeing 737-200
-773,Oxnard,Antonov An-148
-774,Madera,Cessna Citation X
-775,Durham,Partenavia P.68
-776,Boulder,TL Ultralight TL-96 Star
-777,Minneapolis,Airbus A340-600
-778,Clovis,Sukhoi Superjet 100-95
-779,Lumberton,Cessna CitationJet
-780,Natchez,Avro RJ100
-781,Allen,Tupolev Tu-144
-782,Buffalo,Fairchild Dornier 328JET
-783,Caledonia,Boeing 767-400ER
-784,Sand Springs,McDonnell Douglas MD-83
-785,Kinston,Bombardier BD-700 Global 5000
-786,Costa Mesa,Tecnam P2006T
-787,Carson,Socata TB-20 Trinidad
-788,Baldwin,Grumman G-73 Turbo Mallard
-789,Alamo,Airbus A300B4
-790,Riverbank,Cessna Citation Excel
-791,Aventura,GippsAero GA8 Airvan
-792,Waterloo,McDonnell Douglas MD-90
-793,Benton,Embraer Praetor 600
-794,Prior Lake,Grumman G-73 Turbo Mallard
-795,Panama City,Robin ATL
-796,Vernon Hills,De Havilland Canada DHC-3 Otter
-797,Davis,Cessna 172
-798,Danville,Airbus A319neo
-799,Cooper City,Airbus A380-800
-800,East Providence,De Havilland Canada DHC-4 Caribou
-801,Roselle,Canadair Challenger
-802,Wilson,Evektor SportStar
-803,Yakima,Yakovlev Yak-42
-804,Thornton,Tupolev Tu-214
-805,Kaysville,Boeing 777-9
-806,Cupertino,Fokker 50
-807,Riverton,Tecnam P96
-808,Duarte,Douglas DC-9-40
-809,Newberg,De Havilland Canada DHC-2 Beaver
-810,Hudson,McDonnell Douglas MD-11C
-811,Dothan,De Havilland Canada DHC-4 Caribou
-812,Elizabeth City,Douglas DC-9-30
-813,Oviedo,Cessna Citation V
-814,Loveland,Cessna 206 Stationair
-815,Denver,Boeing 707
-816,New Haven,Concorde
-817,Findlay,McDonnell Douglas MD-81
-818,Holland,Piper PA-28
-819,Kerrville,De Havilland Canada DHC-8-400 Dash 8Q
-820,South San Francisco,Yakovlev Yak-42
-821,Paso Robles,Tecnam P92 Eaglet
-822,Midwest City,Bombardier 415
-823,Taylorsville,Boeing 747-100 Freighter
-824,Oak Ridge,"Airbus A300-600ST ""Super Transporter"""
-825,La Habra,Airbus A320neo
-826,Costa Mesa,Douglas DC-8-50
-827,Post Falls,Boeing 747SR Freighter
-828,Colorado Springs,Airbus A330-900neo
-829,Easton,Grumman G-73 Turbo Mallard
-830,Warwick,Fokker 100
-831,Porterville,Airbus A320neo
-832,Oregon,Douglas DC-6
-833,Ventura,Airbus A340-300
-834,Morgantown,Tupolev Tu-204
-835,Chickasha,Ilyushin IL18
-836,Searcy,Embraer Praetor 500
-837,St. Petersburg,Antonov AN-74
-838,Yorkville,Bombardier BD-700 Global 5000
-839,Milledgeville,Convair Convair CV-640
-840,Bowling Green,Boeing 747-200F
-841,West Palm Beach,Airbus A330-200
-842,Sidney,Team Rocket F1
-843,Camas,Embraer Praetor 500
-844,Fort Myers,Boeing 747-300
-845,Glen Ellyn,Embraer RJ140
-846,Colorado Springs,Embraer Praetor 500
-847,Natchitoches,Tecnam P2008
-848,Clarksville,Fokker F27 Friendship
-849,Simi Valley,NAMC YS-11
-850,Federal Way,Airbus A320neo
-851,Selma,Embraer E195-E2
-852,Willmar,Canadair Challenger
-853,Port Hueneme,Ilyushin IL96
-854,Abilene,Pilatus PC-6 Turbo Porter
-855,Lomita,Embraer Legacy 600
-856,Brook Park,Piper PA-44 Seminole
-857,Kerrville,Sukhoi Superjet 100-95
-858,Chico,Canadair Regional Jet 100
-859,Warren,Mitsubishi Mu-2
-860,Gillette,Avro RJ100
-861,Charlotte,Tecnam P2006T
-862,Rolla,Embraer Legacy 450
-863,Sikeston,Embraer EMB 110 Bandeirante
-864,Joliet,McDonnell Douglas MD-87
-865,Lompoc,Fokker 70
-866,Duncanville,Convair Convair CV-600
-867,New Brunswick,Boeing 737-400
-868,Hayward,Boeing 737-800
-869,Maple Grove,Shorts SD.360
-870,Detroit,Antonov AN-140
-871,Harrison,Airbus A340-200
-872,Casa Grande,Antonov AN-140
-873,New Brighton,De Havilland Canada DHC-8-100 Dash 8
-874,Lorain,BAe 146-200
-875,Warren,McDonnell Douglas MD-11C
-876,Montclair,McDonnell Douglas MD-83
-877,Eustis,McDonnell Douglas MD-11F
-878,New Smyrna Beach,Boeing 757-300
-879,Stevens Point,Shorts SD.330
-880,Hazelwood,Embraer Praetor 600
-881,Pleasant Prairie,Learjet 60
-882,Lynwood,Canadair Regional Jet 900
-883,Redondo Beach,Boeing 777-200
-884,Great Falls,Embraer Legacy 500
-885,Macomb,Airbus A340-500
-886,Yuba City,Antonov An-225 Mriya
-887,Hoffman Estates,Learjet 35
-888,Marietta,Boeing 787-8
-889,Mattoon,Pilatus Britten-Norman BN-2A Mk III Trislander
-890,South St. Paul,Boeing 787-8
-891,Marshall,Boeing 747SP
-892,Mount Vernon,Airbus A300C4
-893,Opelousas,Airbus A330-200
-894,Meridian,McDonnell Douglas MD-11F
-895,Brownsburg,Concorde
-896,Buffalo Grove,Cessna 172
-897,Hagerstown,Airbus A321neo
-898,South Salt Lake,Tecnam P2012 Traveller
-899,Phenix City,Bombardier BD-700 Global 5000
-900,Mount Juliet,Cessna 310
-901,Saginaw,Gulfstream/Rockwell (Aero) Turbo Commander
-902,Rock Hill,Dassault Falcon 7X
-903,Springboro,Douglas DC-8-50
-904,Hampton,Airbus A330-200
-905,Morgantown,Dassault Falcon 7X
-906,Valley Stream,McDonnell Douglas MD-87
-907,Chicopee,Cessna 310
-908,Calabasas,Convair CV-580
-909,Amarillo,Fairchild Dornier Do.328
-910,University Park,Douglas DC-8-62
-911,Olathe,Cessna 172 Cutlass RG
-912,Hot Springs,Douglas DC-9-10
-913,Decatur,Airbus A330-800neo
-914,Colorado Springs,Dassault Falcon 7X
-915,Dickinson,Bombardier BD-700 Global 5000
-916,Collierville,De Havilland Canada DHC-3 Otter
-917,Parma,Tecnam P92 Eaglet
-918,Annapolis,Antonov AN-30
-919,Elyria,Antonov An-158
-920,Coronado,Boeing 777-8
-921,North Miami,Beechcraft Baron
-922,Cutler Bay,De Havilland Canada DHC-2 Turbo-Beaver
-923,Sioux City,Convair Convair CV-600
-924,Bixby,Airbus A330-300
-925,Madera,Cessna CitationJet
-926,Lake in the Hills,Boeing 747-400F
-927,Kenosha,Cessna Citation I
-928,Goleta,Boeing 777-200
-929,National City,De Havilland Canada DHC-2 Beaver
-930,Joplin,Airbus A340-600
-931,Annapolis,Fairchild Dornier 328JET
-932,Ozark,British Aerospace Jetstream 32
-933,Barstow,Lockheed L-1011 Tristar
-934,Baytown,Airbus A330-200
-935,Spokane Valley,Fairchild Dornier Do.328
-936,Bayonne,Beechcraft 1900
-937,Sedalia,McDonnell Douglas MD-11
-938,Puyallup,Boeing 747-100 Freighter
-939,Painesville,Douglas DC-10-30
-940,Cicero,Tecnam P96
-941,Monterey Park,De Havilland Canada DHC-3 Otter
-942,Reynoldsburg,Douglas DC-8-72
-943,Vernon Hills,Embraer 170
-944,Nixa,Boeing 720B
-945,Sapulpa,Boeing 757-200
-946,Tiffin,Boeing 720B
-947,Linden,Douglas DC-3
-948,Martinsburg,Piaggio P.180 Avanti
-949,Detroit,Shorts SC-7 Skyvan
-950,Dayton,Boeing 777-9
-951,Elko,Canadair Regional Jet 1000
-952,West Sacramento,Fairchild Dornier Do.328
-953,Lorain,Curtiss C-46 Commando
-954,Marlborough,Convair Convair CV-600
-955,Belmont,Lockheed L-1049 Super Constellation
-956,Manhattan Beach,Piper PA-44 Seminole
-957,Lake Forest,Dassault Falcon 50
-958,Littleton,Convair CV-580
-959,Kissimmee,Airbus A380-800
-960,Bolingbrook,LET 410
-961,Lisle,Pilatus PC-12
-962,Ruston,Boeing 717
-963,Kinston,Tupolev Tu-204
-964,Fontana,Embraer 170
-965,Palmetto Bay,Tecnam P2002 Sierra
-966,Rowlett,Ilyushin IL86
-967,North Little Rock,Cessna Citation V
-968,Pittsfield,De Havilland DH.114 Heron
-969,Pearl,Fairchild Dornier Do.328
-970,New London,Convair Convair CV-640
-971,Pinole,Cessna 177 Cardinal RG
-972,Athens,Lockheed L-188 Electra
-973,Carlisle,Douglas DC-9-10
-974,Indianapolis,COMAC C919
-975,Garden Grove,Avro RJ70
-976,South Salt Lake,Douglas DC-9-10
-977,Roswell,Dassault Falcon 900
-978,Norman,Boeing 747-8F
-979,Hammond,Ilyushin IL62
-980,Dearborn,De Havilland Canada DHC-7 Dash 7
-981,Marietta,Convair Convair CV-600
-982,Coon Rapids,Douglas DC-6
-983,Oak Harbor,Honda HA-420
-984,Palm Desert,Embraer Praetor 600
-985,Mountain View,Boeing 727-200
-986,Wasco,Boeing 737 MAX 7
-987,Linden,Boeing 787-9
-988,Nogales,Embraer Legacy 500
-989,Roseburg,Embraer EMB 110 Bandeirante
-990,Findlay,Boeing 737-300
-991,Westlake,Airbus A380-800
-992,North Little Rock,Boeing 737-800
-993,Chino Hills,LET 410
-994,Edinburg,Douglas DC-3
-995,Carson City,Boeing 747-300
-996,Wyandotte,Canadair Regional Jet 100
-997,Moses Lake,British Aerospace Jetstream 32
-998,Bonney Lake,Cessna Citation X
-999,Portsmouth,Douglas DC-8-72
+,Address_city,Transport_car,Person_academic_degree
+0,Askersby,Mercedes-Benz 210 Van,Licentiat
+1,Ljunga,Renault Mégane Scénic,Doktor
+2,Rättvik,Dodge Nitro,Licentiat
+3,Ljungskile,Dodge Stealth,Doktor
+4,Sorsele,Škoda Fabia Sedan,Licentiat
+5,Almunge,Honda City,Doktor
+6,Idala,Lexus GX,Doktor
+7,Östra Sönnarslöv,Volvo 360,Magister
+8,Vankiva,Daewoo Espero,Magister
+9,Andalen,Mitsubishi ASX,Docent
+10,Kårsta,Volvo XC60,Doktor
+11,Önneköp,Nissan X-Trail,Licentiat
+12,Kättilsmåla,Volkswagen Golf Sportvan,Magister
+13,Sjuhalla,Nissan GT-R,Doktor
+14,Botsmark,Opel Zafira,Docent
+15,Stensele,Volvo V50,Docent
+16,Hyllinge,Audi A8,Docent
+17,Undenäs,Audi 80 Avant,Licentiat
+18,Hjärsås,Peugeot 207 SW,Magister
+19,Ljusdal,Nissan Micra,Docent
+20,Järnforsen,Nissan Primastar,Licentiat
+21,Deje,Jaguar XJ,Docent
+22,Rolfhamre och Måga,Honda CR-Z,Magister
+23,Hagby,Dodge Charger,Doktor
+24,Jönåker,Renault Kadjar,Licentiat
+25,Dorotea,Saab 9-3 Coupé,Docent
+26,Hällnäs,Peugeot 406,Docent
+27,Ambjörby,Porsche 911 Carrera Cabrio,Licentiat
+28,Rödbo,Hyundai Coupé,Licentiat
+29,Motala,Mercedes-Benz 115,Licentiat
+30,Hofterup,Peugeot 2008,Doktor
+31,Innertavle,Renault Fluence,Doktor
+32,Hjälm,Mazda RX-7,Docent
+33,Törestorp,Mazda 323 Combi,Doktor
+34,Vallargärdet,Fiat Stilo Multiwagon,Licentiat
+35,Färgelanda,Suzuki Baleno kombi,Doktor
+36,Kärna,Mazda Premacy,Magister
+37,Flyinge,Seat Altea,Doktor
+38,Byske,Kia Magentis,Magister
+39,Lärbro,Fiat Scudo Van,Doktor
+40,Bengtsfors,Toyota GT86,Licentiat
+41,Dingle,Smart Fortwo coupé,Licentiat
+42,Surte,Kia Carens,Licentiat
+43,Borensberg,Mercedes-Benz 310 Van,Licentiat
+44,Sunne,Mazda CX-3,Magister
+45,Märsta,Ford Ka,Doktor
+46,Sågmyra,Mercedes-Benz S,Magister
+47,Gladö kvarn,Ford Aerostar,Doktor
+48,Varberg,Hyundai i20,Licentiat
+49,Öxabäck,Citroën C-Zero,Doktor
+50,Flen,Audi 100 Avant,Licentiat
+51,Olsfors,Mazda RX-7,Magister
+52,Kållered,Toyota Highlander,Licentiat
+53,Virsbo,Peugeot 309,Docent
+54,Sågmyra,Škoda Fabia Sedan,Doktor
+55,Velanda,BMW Rad 5 Touring,Docent
+56,Bollnäs,Mitsubishi Lancer Combi,Docent
+57,Nybrostrand,Fiat Stilo Multiwagon,Doktor
+58,Brastad,Ford Sierra,Docent
+59,Emmaboda,Mazda MX-6,Doktor
+60,Gåvsta,Alfa Romeo Brera,Docent
+61,Olofstorp,Nissan Tiida,Magister
+62,Gnesta,Porsche Cayenne,Licentiat
+63,Bredviken,Daewoo Espero,Docent
+64,Östra Husby,Toyota Hiace,Licentiat
+65,Flädie,Mercedes-Benz 210 kombi,Magister
+66,Gråbo,Škoda Octavia,Magister
+67,Ängsholmen,Toyota Carina,Doktor
+68,Solberga,Audi A6,Doktor
+69,Timmele,Mazda CX-3,Licentiat
+70,Skanör,Volkswagen Crafter Van,Licentiat
+71,Unnaryd,Volvo C30,Licentiat
+72,Smedstorp,Volvo S70,Doktor
+73,Häggenås,Mitsubishi Outlander,Docent
+74,Nyland,Peugeot 107,Licentiat
+75,Fridlevstad,Volkswagen Golf Plus,Doktor
+76,Fridafors,BMW X1,Licentiat
+77,Roteberg,Porsche 944,Magister
+78,Sticklinge udde,Volkswagen Passat CC,Magister
+79,Götene,Honda City,Licentiat
+80,Norrskedika,Audi TTS,Doktor
+81,Hökåsen,Citroën DS4,Licentiat
+82,Måttsund,Peugeot Bipper,Magister
+83,Hishult,Suzuki Splash,Magister
+84,Nordingrå,Volkswagen CC,Doktor
+85,Fränsta,Mercedes-Benz S,Magister
+86,Mjällby,Mercedes-Benz 124,Magister
+87,Timmele,BMW i8,Licentiat
+88,Viksäter,Alfa Romeo 155,Docent
+89,Hällevadsholm,Audi S7,Licentiat
+90,Österbymo,Saab 9000,Docent
+91,Träslövsläge,Hyundai Atos,Licentiat
+92,Mantorp,Mitsubishi Galant Combi,Magister
+93,Gårdby,Peugeot 106,Docent
+94,Halvarsgårdarna,Škoda Superb Combi,Doktor
+95,Fjällbacka,Rover 416,Doktor
+96,Dvärsätt,Audi A5 Sportback,Doktor
+97,Furuby,Hyundai i20,Magister
+98,Berga,Fiat Ducato Kombi,Doktor
+99,Lillhaga,Nissan Note,Licentiat
+100,Tångaberg,Kia Pregio,Doktor
+101,Ödeborg,Ford Escort Cabrio,Magister
+102,Lysvik,Toyota Prius,Licentiat
+103,Brunnsberg,Nissan 100 NX,Doktor
+104,Fjärås kyrkby,Škoda Favorit,Licentiat
+105,Tärnsjö,Audi A6,Docent
+106,Halmstad,Volkswagen Tiguan,Docent
+107,Rosenfors,MINI Cooper S,Magister
+108,Tånga och Rögle,Fiat 500L,Doktor
+109,Berg,Mercedes-Benz 210 kombi,Doktor
+110,Klockestrand,Daewoo Leganza,Licentiat
+111,Markaryd,Fiat 500X,Licentiat
+112,Axvall,Opel Movano,Doktor
+113,Svanskog,Renault Latitude,Licentiat
+114,Slaka,Dacia Sandero,Licentiat
+115,Vargön,Citroën Xsara,Licentiat
+116,Lugnet och Skälsmara,Suzuki Baleno kombi,Docent
+117,Pershagen,Jaguar XK8 Convertible,Docent
+118,Oskarström,Audi A4 Allroad,Licentiat
+119,Målerås,Chevrolet Monte Carlo,Doktor
+120,Ängsholmen,Renault Espace,Docent
+121,Ystad,Audi S3/S3 Sportback,Docent
+122,Laxå,Chevrolet Spark,Docent
+123,Valbo,Toyota Tundra,Doktor
+124,Munkfors,Mazda 3,Magister
+125,Mysterna,Volkswagen Passat Variant Van,Doktor
+126,Trönninge,Peugeot 207,Docent
+127,Gnesta,Ford Explorer,Doktor
+128,Ekerö,Volkswagen Passat Alltrack,Magister
+129,Bårslöv,Renault Koleos,Doktor
+130,Mörlunda,Ford Tourneo Custom,Docent
+131,Häggenås,Hyundai H1 Van,Licentiat
+132,Bälgviken,Kia Besta,Doktor
+133,Tånga och Rögle,Mitsubishi Carisma,Doktor
+134,Hackås,Chevrolet Matiz,Magister
+135,Billsta,Volkswagen Bora Variant,Doktor
+136,Forsheda,Peugeot 405,Docent
+137,Idre,Jaguar F-Type,Magister
+138,Billingsfors,Fiat Punto,Licentiat
+139,Södra Bergsbyn och Stackgrönnan,Škoda Roomster,Docent
+140,Österbymo,Kia Carnival,Doktor
+141,Nyköping,BMW Z3 Roadster,Doktor
+142,Tråvad,Mitsubishi Lancer Sportback,Magister
+143,Vårdsätra,Mazda Xedox 6,Doktor
+144,Hallstahammar,Mazda 323 Combi,Licentiat
+145,Sunnemo,Hummer H3,Magister
+146,Tärnaby,Fiat Scudo Van,Doktor
+147,Säffle,Kia Cee`d SW,Docent
+148,Länghem,Seat Exeo,Magister
+149,Idala,Mercedes-Benz Trieda A,Magister
+150,Kvicksund,Ford Tourneo Connect,Docent
+151,Åmotfors,Hyundai ix55,Licentiat
+152,Evertsberg,Dodge Challenger,Doktor
+153,Linderöd,Jeep Grand Cherokee,Doktor
+154,Söderala,Citroën C4,Licentiat
+155,Nyland,Smart City-Coupé,Doktor
+156,Holm,Peugeot RCZ,Magister
+157,Hillerstorp,Nissan Maxima QX,Doktor
+158,Höllviken,Mercedes-Benz CL,Doktor
+159,Piperskärr,Volkswagen T4 Multivan,Magister
+160,Tahult,Infiniti EX,Doktor
+161,Kungsäter,Honda Prelude,Magister
+162,Hudiksvall,Citroën Evasion,Magister
+163,Lottefors,Chrysler Town & Country,Licentiat
+164,Ballingslöv,BMW i3,Licentiat
+165,Hittarp,Dacia Dokker,Licentiat
+166,Björketorp,MINI Mini One,Doktor
+167,Näsviken,Mitsubishi 3000 GT,Magister
+168,Kilsmo,Daewoo Lanos,Magister
+169,Lundsbrunn,Hyundai Accent,Doktor
+170,Kungsör,Nissan Almera Tino,Docent
+171,Oskarshamn,Toyota FJ Cruiser,Doktor
+172,Kovland,Honda FR-V,Licentiat
+173,Bastuträsk,Volkswagen Beetle,Docent
+174,Trönninge,Audi A3,Magister
+175,Stugun,Chrysler Sebring,Magister
+176,Anneberg,Nissan Pathfinder,Licentiat
+177,Trollhättan,Nissan Pickup,Licentiat
+178,Hemavan/Bierke,Ford Cougar,Doktor
+179,Stigtomta,Fiat Ducato Kombi,Doktor
+180,Ulrika,Mitsubishi Space Star,Doktor
+181,Smedby,Nissan Maxima QX,Docent
+182,Åsljunga,Renault Laguna,Doktor
+183,Stora Levene,Smart Compact Pulse,Doktor
+184,Bettna,Opel Astra caravan,Licentiat
+185,Visby,Honda Accord Tourer,Magister
+186,Sävsjö,Infiniti G,Doktor
+187,Stockaryd,Opel Signum,Docent
+188,Muskö,Alfa Romeo 4C,Licentiat
+189,Vårgårda,Ford C-Max,Licentiat
+190,Gärds Köpinge,Kia K 2500,Licentiat
+191,Uddheden,Smart Fortwo coupé,Docent
+192,Ölmbrotorp,Mitsubishi Carisma,Licentiat
+193,Östersund,Ford Tourneo Connect,Docent
+194,Strångsjö,Nissan 100 NX,Magister
+195,Floby,Hyundai ix35,Doktor
+196,Vänersborg,Fiat 1100,Docent
+197,Karesuando,Nissan Cabstar TL2 Valnik,Magister
+198,Bollnäs,BMW Rad 2 Coupé,Licentiat
+199,Juniskär,Nissan 200 SX,Docent
+200,Lotorp,Mercedes-Benz 230 - 300 CE Coupé,Doktor
+201,Vännäsby,Mitsubishi Pajero Sport,Licentiat
+202,Hällesåker,Lexus SC 430,Licentiat
+203,Tavelsjö,Nissan X-Trail,Magister
+204,Sövde,Mercedes-Benz Trieda S,Doktor
+205,Falköping,Nissan e-NV200,Docent
+206,Lotorp,Audi A6 Avant,Magister
+207,Vik,Mercedes-Benz GLK,Magister
+208,Upphärad,Mercedes-Benz CLK Coupé,Magister
+209,Harads,Nissan Navara,Docent
+210,Alberga,Volkswagen Touareg,Docent
+211,Runhällen,Fiat Punto Cabriolet,Docent
+212,Tulebo,Citroën C4 Cactus,Docent
+213,Horda,MINI Cooper,Doktor
+214,Vessigebro,Chrysler Voyager,Doktor
+215,Vattjom,Peugeot 307 CC,Doktor
+216,Väggarp,Audi Q5,Licentiat
+217,Hedvigsberg,Volkswagen Amarok,Docent
+218,Husum,Nissan Navara,Doktor
+219,Vessigebro,Volvo 240,Doktor
+220,Moliden,Volkswagen Passat Variant,Magister
+221,Buerås,Fiat Brava,Doktor
+222,Stora Mellösa,Mercedes-Benz GL,Docent
+223,Väjern,Mercedes-Benz S Coupé,Magister
+224,Skruv,Honda CR-X,Docent
+225,Riala,Seat Alhambra,Doktor
+226,Ekerö,Fiat Talento,Docent
+227,Hemmingsmark,Mazda RX-8,Doktor
+228,Smedby,Audi A4 Avant,Docent
+229,Skällinge,Daewoo Nexia,Licentiat
+230,Västermyckeläng,Kia Besta,Magister
+231,Dösjebro,Nissan Maxima QX,Doktor
+232,Ambjörby,Nissan NP300 Pickup,Docent
+233,Svenljunga,Mazda 626 Combi,Doktor
+234,Törestorp,Nissan e-NV200,Docent
+235,Gällstad,Chevrolet Captiva,Licentiat
+236,Linghed,Citroën C5,Magister
+237,Söderby-Karl,Volvo 240,Licentiat
+238,Väse,Infiniti QX,Doktor
+239,Årsunda,Chevrolet Lacetti,Magister
+240,Ovesholm,Nissan Qashqai,Docent
+241,Mariannelund,Nissan Almera Tino,Docent
+242,Ekeby-Almby,Jeep Grand Cherokee,Doktor
+243,Hybo,Citroën Jumpy,Docent
+244,Rockneby,Mercedes-Benz CLC,Docent
+245,Flisby,Jaguar XE,Licentiat
+246,Rimbo,Nissan NV200,Licentiat
+247,Vedevåg,Chrysler 300 M,Docent
+248,Nås,BMW Rad 6 Gran Coupé,Doktor
+249,Merlänna,Alfa Romeo GT,Docent
+250,Runtuna,Smart Roadster,Doktor
+251,Götlunda,Fiat Linea,Docent
+252,Ljunghusen,Dodge Caliber,Licentiat
+253,Harmånger,Toyota Auris,Doktor
+254,Timsfors,Mazda CX-9,Docent
+255,Lidatorp och Klövsta,Mercedes-Benz Trieda R,Licentiat
+256,Önneköp,Toyota 4-Runner,Docent
+257,Överum,Alfa Romeo Brera,Doktor
+258,Ullervad,Audi RS4/RS4 Avant,Magister
+259,Tunadal,Renault Mégane Coupé,Docent
+260,Holmeja,Renault Kadjar,Doktor
+261,Mellösa,Kia Rio sedan,Licentiat
+262,Fredriksberg,Ford Ranger,Docent
+263,Holm,Citroën C8,Magister
+264,Östmark,Audi RS5,Licentiat
+265,Skillinge,Peugeot 207,Doktor
+266,Kvibille,Volkswagen T5 Caravelle,Magister
+267,Höviksnäs,Fiat Florino Combi,Licentiat
+268,Lindesberg,Mazda CX-9,Docent
+269,Duved,Subaru Outback,Docent
+270,Pålsboda,Opel Ampera,Magister
+271,Björnänge,Mercedes-Benz GLK,Magister
+272,Möklinta,Mercedes-Benz GL,Docent
+273,Porjus,Fiat Scudo,Docent
+274,Svenstorp,Peugeot RCZ,Doktor
+275,Vallda,Seat Leon,Magister
+276,Östavall,Jaguar XJ,Licentiat
+277,Glimåkra,Mercedes-Benz Trieda M,Magister
+278,Kungsberga,MINI Cooper Cabrio,Magister
+279,Malmköping,Mercedes-Benz C Sportcoupé,Doktor
+280,Malung,Fiat Ducato Kombi,Docent
+281,Karlskrona,Ford Transit Courier,Docent
+282,Södersvik,Audi S4/S4 Avant,Magister
+283,Borlänge,Chrysler PT Cruiser,Doktor
+284,Nissafors,Volvo 850,Licentiat
+285,Gängletorp,Audi A5 Cabriolet,Docent
+286,Svenstavik,Škoda Rapid,Doktor
+287,Brevikshalvön,Renault Laguna Grandtour,Docent
+288,Vilshult,Mercedes-Benz 115,Docent
+289,Laholm,Mercedes-Benz 124,Doktor
+290,Hunnebostrand,Hyundai Trajet,Doktor
+291,Böle,Škoda Fabia,Docent
+292,Saleby,Dodge Avenger,Docent
+293,Eslöv,Volvo S80,Doktor
+294,Indal,Opel Zafira,Docent
+295,Ulricehamn,Dodge Avenger,Magister
+296,Fiskebäckskil,Renault Scénic,Docent
+297,Grevie,Seat Toledo,Magister
+298,Torsebro,Fiat Punto Evo,Docent
+299,Kalvsund,Alfa Romeo 159 Sportwagon,Docent
+300,Skinnskatteberg,BMW Rad 3,Magister
+301,Indal,Nissan Pathfinder,Licentiat
+302,Rydboholm,Mercedes-Benz 200 D,Licentiat
+303,Grebbestad,Saab 9-3,Doktor
+304,Sörforsa,Peugeot 108,Doktor
+305,Sjösa,Fiat Stilo,Licentiat
+306,Svarte,Chevrolet Kalos,Licentiat
+307,Sälen,Fiat Doblo Cargo,Licentiat
+308,Rusksele,Opel Frontera,Docent
+309,Röstånga,Volkswagen Bora Variant,Licentiat
+310,Hånger,Honda HR-V,Licentiat
+311,Buerås,Ford Kuga,Docent
+312,Skärstad,Toyota Sequoia,Magister
+313,Rättvik,Hyundai Getz,Docent
+314,Tingstäde,Toyota Corolla Verso,Doktor
+315,Gonäs,Fiat Ulysse,Doktor
+316,Åstol,Kia Cee`d SW,Docent
+317,Marbäck,Hyundai i40,Docent
+318,Karlskrona,Nissan 200 SX,Docent
+319,Alby,Honda Insight,Magister
+320,Brastad,BMW Rad 4 Gran Coupé,Magister
+321,Långsele,Daewoo Matiz,Doktor
+322,Ålberga,Alfa Romeo 146,Doktor
+323,Enviken,Jaguar F-Type,Docent
+324,Ingatorp,Alfa Romeo Crosswagon,Doktor
+325,Hedemora,Mitsubishi Outlander,Doktor
+326,Stensjön,Mazda 2,Docent
+327,Bruzaholm,Hyundai i40 CW,Magister
+328,Bua,Fiat Ducato Podvozok,Magister
+329,Ellös,Mercedes-Benz 126,Licentiat
+330,Äsköping,Subaru Levorg,Magister
+331,Åtorp,Infiniti G Coupé,Magister
+332,Hjortsberga,Toyota Avensis Combi,Doktor
+333,Kvänum,Volkswagen Polo Variant,Docent
+334,Ljungbyholm,Ford Transit Bus,Doktor
+335,Ödåkra,Alfa Romeo 159,Magister
+336,Stenstorp,Honda Legend,Licentiat
+337,Öckerö,Citroën C4 Grand Picasso,Magister
+338,Östhamra,Ford Mondeo Combi,Docent
+339,Tumbo,Smart City-Coupé,Licentiat
+340,Tandsbyn,Volkswagen Passat Variant Van,Docent
+341,Hedvigsberg,Mazda MPV,Doktor
+342,Sveg,Chrysler Neon,Doktor
+343,Vitaby,Smart Fortwo cabrio,Licentiat
+344,Skärstad,Opel Vivaro Kombi,Magister
+345,Kvissleby,Mitsubishi Colt CC,Licentiat
+346,Katrineholm,Subaru Levorg,Licentiat
+347,Vejbystrand,Chevrolet Spark,Magister
+348,Håksberg,Audi A3,Doktor
+349,Hånger,BMW X6,Docent
+350,Torsång,Citroën C4 Cactus,Docent
+351,Råneå,Renault Latitude,Magister
+352,Sexdrega,Renault Zoé,Doktor
+353,Sparreholm,Opel Astra,Doktor
+354,Dösjebro,Porsche Cayenne,Docent
+355,Rot,Audi A5 Cabriolet,Doktor
+356,Havdhem,BMW Rad 3 Compact,Docent
+357,Rockhammar,Alfa Romeo Spider,Docent
+358,Viksjöfors,Mercedes-Benz CLC,Doktor
+359,Listerby,Peugeot 205 Cabrio,Docent
+360,Boden,Mitsubishi Lancer Evo,Doktor
+361,Höör,Mercedes-Benz 310 kombi,Docent
+362,Diö,Lexus IS 250 C,Magister
+363,Gunsta,Mercedes-Benz E Coupé,Magister
+364,Öjersjö,Toyota Prius,Magister
+365,Ursviken,Kia Cerato,Doktor
+366,Alfta,Dacia Logan MCV,Licentiat
+367,Alingsås,Dodge Grand Caravan,Doktor
+368,Bälinge,Seat Mii,Docent
+369,Mullsjö,Kia Venga,Licentiat
+370,Sibble,Daewoo Tico,Docent
+371,Hålsjö,Jaguar XJ8,Licentiat
+372,Österhagen och Bergliden,BMW Rad 4 Cabrio,Doktor
+373,Urshult,Toyota Celica,Magister
+374,Norra Riksten,Volkswagen Jetta,Licentiat
+375,Brännö,Mitsubishi Outlander,Docent
+376,Ardala,Chevrolet Kalos,Magister
+377,Mörsil,BMW Rad 6 Gran Coupé,Magister
+378,Nybro,Infiniti Q,Doktor
+379,Korpilombolo,Toyota Hiace,Magister
+380,Örsjö,Volkswagen Golf Variant,Magister
+381,Surahammar,Fiat Doblo,Licentiat
+382,Brunn,Kia Cerato,Licentiat
+383,Vannsätter,Peugeot 1007,Docent
+384,Strömma,Mercedes-Benz 200 E,Doktor
+385,Kåge,Toyota Paseo,Docent
+386,Åtorp,BMW Rad 3 Touring,Docent
+387,Ljungby,Kia Cerato,Licentiat
+388,Torsås,BMW Rad 4 Cabrio,Docent
+389,Västerberg,Fiat Doblo Cargo Combi,Licentiat
+390,Undersåker,Lexus SC 430,Magister
+391,Stenared,Porsche 997,Docent
+392,Jokkmokk,Toyota Tundra,Docent
+393,Sätra brunn,Lexus SC 430,Docent
+394,Sannahed,Land Rover Range Rover,Doktor
+395,Sätra brunn,Alfa Romeo Spider,Licentiat
+396,Bärby,Peugeot 5008,Licentiat
+397,Furuvik,Mercedes-Benz 115,Doktor
+398,Djurö,Porsche 911 Targa,Docent
+399,Haverdal,Renault Grand Espace,Docent
+400,Ölmstad,Rover 414,Doktor
+401,Kärna,Hyundai Galloper,Docent
+402,Vattnäs,Fiat Ducato,Docent
+403,Vikarbyn,Citroën C1,Magister
+404,Bålsta,Mitsubishi Colt CC,Magister
+405,Göta,Toyota Celica,Magister
+406,Askersby,Citroën Nemo,Docent
+407,Gammelgården,Mitsubishi L200,Doktor
+408,Hjältevad,Ford Transit Van 350,Docent
+409,Pilgrimstad,Hummer H3,Doktor
+410,Vagnhärad,Peugeot 106,Licentiat
+411,Trelleborg,Citroën Jumpy,Magister
+412,Totebo,Hyundai Galloper,Magister
+413,Dalum,Mercedes-Benz Citan,Docent
+414,Rydal,Nissan Almera Tino,Docent
+415,Ätran,Jaguar XJR,Magister
+416,Vagnhärad,Mercedes-Benz 500 - 600 SEC Coupé,Doktor
+417,Hjärnarp,Renault Laguna,Doktor
+418,Haverdal,Suzuki Ignis,Doktor
+419,Piperskärr,Suzuki SX4,Doktor
+420,Höganäs,Daewoo Tacuma,Docent
+421,Sunnemo,Daewoo Racer,Doktor
+422,Stallarholmen,Lexus GX,Magister
+423,Bankeryd,Fiat Stilo Multiwagon,Licentiat
+424,Oskar-Fredriksborg,Mitsubishi Fuso canter,Docent
+425,Östra Ånneröd,Volkswagen Touran,Licentiat
+426,Gistad,Volvo 360,Docent
+427,Gnesta,Kia Sephia,Licentiat
+428,Söderby-Karl,Nissan Juke,Licentiat
+429,Frösakull,Fiat Sedici,Magister
+430,Holsbybrunn,Volkswagen CrossTouran,Magister
+431,Östersund,BMW Z4 Roadster,Magister
+432,Nykyrka,Mitsubishi Space Star,Magister
+433,Berghem,Infiniti FX,Docent
+434,Kävlinge,Mitsubishi L200,Magister
+435,Tidaholm,Peugeot 207,Docent
+436,Lerum,Mercedes-Benz E Coupé,Licentiat
+437,Klippan,Daewoo Matiz,Licentiat
+438,Bäckebo,Chevrolet Lumina,Licentiat
+439,Alvik,Saab 900 C Turbo,Doktor
+440,Bor,Daewoo Tico,Licentiat
+441,Axvall,Nissan Maxima QX,Magister
+442,Örtagården,Chevrolet Matiz,Docent
+443,Häljarp,Saab 9000,Magister
+444,Krokek,Toyota Aygo,Docent
+445,Marieholm,Jaguar XJ12,Docent
+446,Ljunga,BMW Rad 2 Active Tourer,Licentiat
+447,Hultsfred,Porsche Cayenne,Doktor
+448,Djurö,Subaru SVX,Magister
+449,Björna,Chevrolet Matiz,Doktor
+450,Åsa,BMW X3,Magister
+451,Ullånger,Chevrolet Aveo,Licentiat
+452,Skottsund,Nissan Primera,Magister
+453,Morup,Nissan Insterstar,Docent
+454,Gunsta,Audi A4,Docent
+455,Tyringe,Opel Vectra Caravan,Doktor
+456,Skövde,MINI Cooper Clubman,Licentiat
+457,Timsfors,Lexus RX 450h,Magister
+458,Forserum,Hyundai i10,Magister
+459,Skegrie,Citroën C-Elissée,Magister
+460,Insjön,Volvo V70,Magister
+461,Njutånger,Toyota Carina,Licentiat
+462,Onslunda,Renault Mégane Scénic,Licentiat
+463,Grimslöv,Honda Civic,Docent
+464,Märsta,Nissan Primera Combi,Magister
+465,Mörbylånga,Hummer H3,Magister
+466,Vårgårda,Toyota Highlander,Doktor
+467,Norsesund,Audi A8 Long,Doktor
+468,Nävekvarn,Fiat Talento,Docent
+469,Östra Ljungby,Volkswagen LT,Doktor
+470,Danholn,BMW Rad 3 Coupé,Docent
+471,Filsbäck,Mitsubishi Pajero Pinin Wagon,Licentiat
+472,Eslöv,Kia Rio,Licentiat
+473,Segmon,Rover 75,Licentiat
+474,Harlösa,Fiat Ducato Podvozok,Licentiat
+475,Torna Hällestad,Dodge Nitro,Magister
+476,Kimstad,Volkswagen Scirocco,Docent
+477,Algutsrum,Volkswagen Bora Variant,Magister
+478,Rängs sand,Saab 9-3 Cabriolet,Doktor
+479,Resarö,Nissan Patrol GR,Doktor
+480,Skreanäs,Mercedes-Benz Citan,Licentiat
+481,Robertsfors,Toyota Hilux,Doktor
+482,Onslunda,Chevrolet Equinox,Doktor
+483,Viken,Rover 218,Magister
+484,Ingared,Volvo XC60,Doktor
+485,Marma,Audi S7,Licentiat
+486,Vagnhärad,Renault Clio,Licentiat
+487,Edsbyn,Smart Fortwo cabrio,Doktor
+488,Tomelilla,Honda Civic Type R,Docent
+489,Åbyggeby,Alfa Romeo 4C,Doktor
+490,Vittsjö,Volvo S60,Magister
+491,Örtofta,Audi R8,Doktor
+492,Veinge,Fiat Scudo Kombi,Magister
+493,Brålanda,Suzuki Wagon R+,Licentiat
+494,Målsryd,Mitsubishi Outlander,Docent
+495,Gnarp,Fiat Strada,Docent
+496,Strömma,Subaru SVX,Magister
+497,Jämshög,Jaguar XKR Convertible,Docent
+498,Simonstorp,Mercedes-Benz GL,Docent
+499,Slottsskogen,Jaguar XK8 Convertible,Magister
+500,Mariestad,BMW Rad 1,Magister
+501,Bie,Renault Talisman Grandtour,Licentiat
+502,Stavsnäs,Peugeot 207 SW,Doktor
+503,Sundby,Subaru Tribeca,Licentiat
+504,Åsensbruk,Lexus RX 400h,Licentiat
+505,Borgstena,Daewoo Tacuma,Docent
+506,Tahult,Mercedes-Benz CLC,Licentiat
+507,Strömstad,Opel Campo,Doktor
+508,Bårslöv,Land Rover Discovery,Licentiat
+509,Hofterup,Nissan Vanette Cargo,Magister
+510,Jäderfors,Volvo C70 Cabrio,Licentiat
+511,Ed,Opel Campo,Magister
+512,Pauliström,Alfa Romeo Crosswagon,Licentiat
+513,Skebobruk,Dacia Duster,Magister
+514,Södra Bergsbyn och Stackgrönnan,Alfa Romeo Crosswagon,Magister
+515,Ambjörby,Fiat Tipo,Doktor
+516,Berghem,Toyota Sequoia,Magister
+517,Hålsjö,Citroën Xantia,Doktor
+518,Mogata,Saab 900 C Turbo,Docent
+519,Sälgsjön,Mazda MX-3,Docent
+520,Norsholm,Mercedes-Benz Trieda A,Licentiat
+521,Malmö,BMW Rad 3 Compact,Docent
+522,Backberg,Volkswagen Caravelle,Doktor
+523,Hamrångefjärden,Ford F-150,Magister
+524,Saleby,BMW Rad 5 Touring,Docent
+525,Gärds Köpinge,Renault Kangoo Express,Doktor
+526,Arvika,Mazda MPV,Doktor
+527,Boden,Chevrolet Cruze,Licentiat
+528,Källby,Fiat Scudo Van,Docent
+529,Hjorted,Chevrolet Monte Carlo,Licentiat
+530,Ingatorp,BMW Rad 7,Docent
+531,Oskarström,Citroën C4 Cactus,Licentiat
+532,Norsjö,Suzuki Ignis,Docent
+533,Vinäs,Volvo XC60,Licentiat
+534,Kättilsmåla,Seat Toledo,Magister
+535,Ölsta,Hyundai H1,Magister
+536,Kågeröd,Lexus IS,Licentiat
+537,Hyllinge,Jeep Renegade,Docent
+538,Lönsboda,Jeep Wrangler,Magister
+539,Alby,Citroën C4 Grand Picasso,Licentiat
+540,Bergshammar,Dacia Logan Van,Doktor
+541,Eringsboda,Nissan 350 Z Roadster,Licentiat
+542,Forsbacka,Chevrolet Lacetti,Magister
+543,Forshaga,Land Rover Range Rover Evoque,Licentiat
+544,Ytterhogdal,Honda Prelude,Docent
+545,Fornåsa,BMW M6,Licentiat
+546,Södertälje,Chevrolet Malibu,Doktor
+547,Riddarhyttan,Hyundai Galloper,Magister
+548,Gnesta,BMW X1,Licentiat
+549,Dösjebro,Ford Escort kombi,Licentiat
+550,Norra Rörum,Mercedes-Benz CLK Cabrio,Licentiat
+551,Byske,Volkswagen Caddy,Magister
+552,Nykroppa,Renault Mégane Coupé,Licentiat
+553,Barkarö,Volkswagen Caravelle,Magister
+554,Vallentuna,Smart Compact Pulse,Doktor
+555,Ekenässjön,Peugeot 205,Magister
+556,Svalöv,Nissan Primastar Combi,Doktor
+557,Solberga,Ford Windstar,Docent
+558,Kårsta,Dodge Caliber,Doktor
+559,Kangos,Chevrolet Lacetti SW,Doktor
+560,Lagan,Chrysler Town & Country,Licentiat
+561,Arjeplog,Honda FR-V,Magister
+562,Gärds Köpinge,Volkswagen Fox,Licentiat
+563,Piteå,Saab 9-5 SportCombi,Magister
+564,Tillberga,Toyota Carina,Docent
+565,Starrkärr och Näs,Mercedes-Benz Trieda C,Licentiat
+566,Vinbergs kyrkby,MINI Cooper Cabrio,Magister
+567,Sandarne,Dodge Caliber,Licentiat
+568,Sollefteå,Volvo C30,Docent
+569,Utby,Jaguar XK8 Convertible,Docent
+570,Deje,Volvo V40,Docent
+571,Timmersdala,Nissan Primastar Combi,Magister
+572,Kvibille,Alfa Romeo 4C,Docent
+573,Avan,Volkswagen Eos,Doktor
+574,Ljungsarp,Mercedes-Benz E Cabrio,Magister
+575,Pershagen,BMW X4,Docent
+576,Grundsund,Ford Transit Tourneo,Doktor
+577,Sävar,Chevrolet Captiva,Licentiat
+578,Avesta,Porsche Boxster,Doktor
+579,Skummeslövsstrand,Ford Cortina,Doktor
+580,Nykyrka,Volkswagen T5 Caravelle,Magister
+581,Ekedalen,Audi S6/RS6,Docent
+582,Eda glasbruk,MINI Cooper S Clubman,Doktor
+583,Skee,Mitsubishi 3000 GT,Doktor
+584,Gärsnäs,Suzuki Grand Vitara,Licentiat
+585,Berghem,Citroën C3 Picasso,Docent
+586,Riddarhyttan,Rover 218,Licentiat
+587,Almunge,Nissan Terrano,Docent
+588,Vislanda,Nissan Patrol,Licentiat
+589,Immeln,Fiat Idea,Doktor
+590,Sävja,Škoda Felicia Combi,Licentiat
+591,Norrsundet,Hyundai H 350,Docent
+592,Hofors,BMW Rad 3 GT,Docent
+593,Ramsberg,Opel Omega,Doktor
+594,Innertavle,Peugeot 605,Licentiat
+595,Skepparkroken,Kia Besta,Licentiat
+596,Stöcke,Toyota FJ Cruiser,Licentiat
+597,Almunge,Honda Accord,Magister
+598,Siljansnäs,Smart Roadster,Magister
+599,Broaryd,Fiat Punto,Doktor
+600,Nordanö,Nissan King Cab,Licentiat
+601,Ställdalen,Mercedes-Benz SL,Doktor
+602,Sankt Olof,Suzuki Baleno kombi,Licentiat
+603,Borensberg,Dacia Logan,Doktor
+604,Borrby,Nissan Leaf,Licentiat
+605,Svartvik,Škoda Fabia Combi,Licentiat
+606,Kungsbacka,Volkswagen Phaeton,Licentiat
+607,Berga,Toyota Aygo,Licentiat
+608,Gnarp,Mazda CX-9,Licentiat
+609,Kånna,Volkswagen New Beetle,Docent
+610,Viken,Volkswagen Touareg,Licentiat
+611,Vartofta,Honda CR-X,Docent
+612,Röfors,Opel Ampera,Doktor
+613,Gnarp,Mercedes-Benz 200 - 300,Licentiat
+614,Ytterhogdal,Hummer H2,Magister
+615,Eksund,Mitsubishi Eclipse,Licentiat
+616,Möklinta,Toyota Camry,Docent
+617,Maln,Suzuki Alto,Doktor
+618,Bärby,Mercedes-Benz S,Docent
+619,Hånger,Dodge Stealth,Doktor
+620,Hästhagen,BMW Rad 6,Docent
+621,Åsarp,Ford Fusion,Doktor
+622,Vikingstad,Škoda Fabia,Licentiat
+623,Frillesås,Mazda 6 Combi,Doktor
+624,Kattarp,Alfa Romeo Crosswagon,Doktor
+625,Löddeköpinge,Renault Espace,Licentiat
+626,Ryssby,Mercedes-Benz GLK,Licentiat
+627,Kärna,Ford Escort kombi,Doktor
+628,Vik,Audi 100,Magister
+629,Storfors,Volvo V90,Doktor
+630,Öggestorp,Chevrolet Trax,Magister
+631,Hjortkvarn,BMW Rad 3 Coupé,Licentiat
+632,Torsång,Citroën C4 Aircross,Magister
+633,Åmsele,Citroën Nemo,Licentiat
+634,Edsbro,Volvo S40,Magister
+635,Evertsberg,Hyundai ix20,Docent
+636,Grästorp,Mercedes-Benz A L,Magister
+637,Gunnarstorp,Rover 400,Licentiat
+638,Hölö,Ford Transit Tourneo,Doktor
+639,Hälsö,BMW Rad 4 Gran Coupé,Magister
+640,Halvarsgårdarna,Lexus GS 300,Licentiat
+641,Algutsrum,Mazda Demio,Doktor
+642,Vittangi,Mercedes-Benz C Sportcoupé,Licentiat
+643,Nikkala,Volkswagen Polo Van,Licentiat
+644,Ryd,Volvo 850,Doktor
+645,Älvkarleby,Mitsubishi Colt CC,Doktor
+646,Åsen,Alfa Romeo GTV,Doktor
+647,Stjärnhov,Mercedes-Benz 500 - 600 SEC Coupé,Licentiat
+648,Utby,Subaru Forester,Docent
+649,Malå,Daewoo Kalos,Docent
+650,Vadstena,Hyundai Elantra,Docent
+651,Innertavle,Suzuki Grand Vitara,Magister
+652,Sörstafors,Toyota Hilux,Licentiat
+653,Skölsta,Kia Rio sedan,Doktor
+654,Dalsjöfors,Opel Astra,Docent
+655,Bor,Mazda 5,Magister
+656,Fornåsa,Peugeot Bipper,Magister
+657,Finkarby,Jeep Grand Cherokee,Licentiat
+658,Tärnaby,Mitsubishi Lancer,Licentiat
+659,Klövsjö,Hyundai H1 Van,Docent
+660,Åsensbruk,Ford C-Max,Magister
+661,Hasslö,Mercedes-Benz Trieda A,Magister
+662,Viksjöfors,Citroën Xsara,Doktor
+663,Gullbranna,Seat Arosa,Doktor
+664,Strömstad,Alfa Romeo MiTo,Doktor
+665,Stensele,BMW M5,Licentiat
+666,Dingtuna,Nissan 350 Z Roadster,Docent
+667,Skee,Opel Astra coupé,Docent
+668,Grundsund,Chrysler Stratus,Doktor
+669,Kivik,Mazda MX-5,Licentiat
+670,Billsta,Seat Exeo,Doktor
+671,Dösjebro,Alfa Romeo GT,Licentiat
+672,Hjärtum,Škoda Felicia Combi,Docent
+673,Kungsgården,Volkswagen Jetta,Magister
+674,Timrå,Audi A4,Doktor
+675,Åsarp,Opel Astra caravan,Licentiat
+676,Nordkroken,Peugeot 205,Docent
+677,Gårdskär,Subaru Legacy,Magister
+678,Odensjö,Audi A6 Avant,Docent
+679,Dunö,Toyota Hilux,Magister
+680,Ljungaverk,Mazda Premacy,Magister
+681,Ullånger,Dodge Charger,Docent
+682,Tahult,Volkswagen Sharan,Magister
+683,Öbonäs,Lexus GS 300,Doktor
+684,Olsfors,Volvo C70 Cabrio,Docent
+685,Kaxholmen,Audi A5 Cabriolet,Doktor
+686,Sjuntorp,Škoda Rapid,Docent
+687,Borensberg,Subaru Impreza Wagon,Magister
+688,Eneryda,Seat Alhambra,Licentiat
+689,Bie,Ford Orion,Docent
+690,Sölvesborg,BMW Rad 3 Coupé,Doktor
+691,Danholn,Toyota Prius,Magister
+692,Åmotfors,Mercedes-Benz GLE,Licentiat
+693,Hagryd-Dala,Lexus LX,Magister
+694,Salbohed,Renault Kangoo,Magister
+695,Näsviken,Daewoo Lublin,Docent
+696,Hemse,Renault Espace,Licentiat
+697,Torna Hällestad,Nissan Leaf,Licentiat
+698,Ställdalen,Honda Legend,Magister
+699,Moliden,Audi 80,Docent
+700,Drängsmark,Kia Soul,Magister
+701,Torshälla huvud,Audi Q5,Magister
+702,Aröd och Timmervik,Seat Mii,Docent
+703,Gnesta,Hyundai H1,Licentiat
+704,Borgstena,Nissan Qashqai,Magister
+705,Östra Tommarp,Seat Arosa,Docent
+706,Mysterna,BMW Rad 2 Active Tourer,Magister
+707,Listerby,Jaguar XF,Doktor
+708,Nogersund,Volvo 850,Docent
+709,Gladö kvarn,Ford Sierra,Licentiat
+710,Stenared,Seat Exeo,Licentiat
+711,Drängsmark,Fiat Scudo Kombi,Licentiat
+712,Edsbyn,Volkswagen T5 Transporter Shuttle,Doktor
+713,Gränna,Fiat 126,Doktor
+714,Krokom,Suzuki Wagon R+,Licentiat
+715,Sävja,Alfa Romeo 159 Sportwagon,Magister
+716,Fornåsa,Volvo C70,Licentiat
+717,Öbonäs,Toyota 4-Runner,Docent
+718,Lindsdal,Volvo C70,Licentiat
+719,Årjäng,Ford Fusion,Doktor
+720,Storfors,Citroën C-Zero,Doktor
+721,Hemse,Nissan Sunny,Licentiat
+722,Torshälla,Seat Arosa,Doktor
+723,Östraby,Jaguar XJR,Magister
+724,Lidatorp och Klövsta,Jaguar XJ,Docent
+725,Torekov,Opel Meriva,Magister
+726,Vidsel,Nissan Murano,Magister
+727,Horndal,Alfa Romeo 166,Magister
+728,Kvicksund,Audi 80 Cabrio,Docent
+729,Stigtomta,Suzuki SX4 Sedan,Magister
+730,Bruzaholm,Volkswagen Phaeton,Magister
+731,Åmmeberg,Suzuki Ignis,Licentiat
+732,Färgelanda,Citroën Xantia,Docent
+733,Rosenfors,Chevrolet Cruze SW,Doktor
+734,Ödeshög,Ford Galaxy,Doktor
+735,Lesjöfors,BMW Rad 3 GT,Magister
+736,Hökåsen,Ford C-Max,Magister
+737,Hasslarp,Mercedes-Benz GLK,Licentiat
+738,Njutånger,Infiniti M,Magister
+739,Evertsberg,Citroën C-Crosser,Magister
+740,Knislinge,Volkswagen Passat CC,Magister
+741,Alby,BMW Rad 4,Licentiat
+742,Silverdalen,Audi TTS,Licentiat
+743,Falun,Renault Latitude,Doktor
+744,Simrishamn,Dodge Stealth,Magister
+745,Sunnansjö,Volvo S40,Doktor
+746,Lindö,Audi RS4/RS4 Avant,Docent
+747,Broby,Volkswagen Crafter Kombi,Docent
+748,Järbo,Volvo S80,Docent
+749,Lödöse,Chrysler Town & Country,Licentiat
+750,Bollstabruk,Toyota MR2,Doktor
+751,Forssjö,MINI Cooper D,Docent
+752,Docksta,BMW Rad 5 Touring,Licentiat
+753,Södersvik,Jaguar Sovereign,Magister
+754,Västra Hagen,Mercedes-Benz 500 - 600 SEC Coupé,Docent
+755,Röbäck,Nissan Note,Doktor
+756,Mysterna,Smart Forfour,Magister
+757,Taberg,MINI Cooper S,Magister
+758,Stigen,Citroën C5 Break,Docent
+759,Lugnås,Jaguar X-Type,Magister
+760,Lidatorp och Klövsta,Lexus GS 300,Licentiat
+761,Brevikshalvön,MINI Cooper D Clubman,Magister
+762,Rundvik,BMW Rad 3 Compact,Docent
+763,Blombacka,Lexus SC 430,Docent
+764,Fårösund,Volkswagen Touareg,Doktor
+765,Borås,Nissan Note,Licentiat
+766,Bräkne-Hoby,Mazda CX-3,Docent
+767,Stensund och Krymla,Renault Laguna Grandtour,Magister
+768,Valdemarsvik,Škoda Rapid,Docent
+769,Piteå,Kia Sorento,Licentiat
+770,Knutby,Daewoo Espero,Doktor
+771,Hofterup,Nissan Vanette Cargo,Magister
+772,Norrtälje,Dacia Lodgy,Doktor
+773,Mörarp,Ford Transit,Licentiat
+774,Kläppa,Jaguar XJ12,Magister
+775,Västerlösa,Jaguar XK8 Convertible,Licentiat
+776,Tingsryd,Porsche 997,Doktor
+777,Gällö,Peugeot 308 SW,Doktor
+778,Västerhejde,Renault Kangoo,Licentiat
+779,Rånäs,Mitsubishi Lancer Sportback,Doktor
+780,Backberg,Volkswagen Bora,Magister
+781,Karlholmsbruk,Chevrolet Aveo,Doktor
+782,Töcksfors,Toyota Yaris Verso,Licentiat
+783,Sörforsa,Mercedes-Benz Trieda E,Docent
+784,Köpingebro,Suzuki Samurai,Docent
+785,Aplared,MINI Cooper,Doktor
+786,Jonstorp,Renault Talisman Grandtour,Magister
+787,Rixö,Infiniti M,Magister
+788,Laxvik,Mitsubishi Galant,Licentiat
+789,Orrefors,Jaguar XK8 Convertible,Licentiat
+790,Åsljunga,Audi A6,Docent
+791,Munkedal,Hyundai Genesis,Docent
+792,Sjuhalla,Volkswagen Bora Variant,Docent
+793,Kramfors,MINI Cooper Cabrio,Doktor
+794,Essvik,Audi 100,Docent
+795,Riddarhyttan,Chevrolet Tahoe,Licentiat
+796,Sundhultsbrunn,Chevrolet Tacuma,Magister
+797,Skutskär,Fiat 500,Docent
+798,Hamburgsund,Toyota Hilux,Doktor
+799,Gällivare,Citroën Evasion,Doktor
+800,Svalsta,Saab 900,Doktor
+801,Bua,Honda HR-V,Licentiat
+802,Varekil,Nissan Pulsar,Doktor
+803,Kinnared,Jaguar F-Pace,Licentiat
+804,Kyrksten,Alfa Romeo GTV,Docent
+805,Nikkala,Opel Movano,Magister
+806,Kärda,Lexus IS-F,Licentiat
+807,Sjöberg,Hyundai Genesis,Doktor
+808,Bergsbyn,Volkswagen Bora,Docent
+809,Färlöv,Toyota Starlet,Docent
+810,Ölmstad,Mercedes-Benz 310 kombi,Licentiat
+811,Äspered,Audi A4 Avant,Magister
+812,Storfors,Volkswagen Crafter Van,Licentiat
+813,Norje,Porsche Macan,Magister
+814,Hunnebostrand,Citroën Evasion,Doktor
+815,Mörarp,Mercedes-Benz CL,Docent
+816,Stockvik,Renault Mégane,Licentiat
+817,Gårdstånga,Renault Latitude,Magister
+818,Äsperöd,Nissan GT-R,Docent
+819,Gärsnäs,BMW Rad 2 Active Tourer,Licentiat
+820,Vimmerby,Kia Carnival,Magister
+821,Geijersholm,Suzuki Alto,Magister
+822,Danholn,Mitsubishi L200,Doktor
+823,Åmmeberg,Dodge Viper,Doktor
+824,Nyborg,Honda FR-V,Docent
+825,Hultafors,Mercedes-Benz E T,Doktor
+826,Sifferbo,Kia Rio Combi,Magister
+827,Svalsta,Fiat Panda Van,Licentiat
+828,Häggeby och Vreta,Nissan Trade,Licentiat
+829,Tallåsen,Renault Grand Scenic,Licentiat
+830,Stora Vika,Mitsubishi Pajero Wagon,Licentiat
+831,Måttsund,Audi TT Roadster,Docent
+832,Bara,Nissan Murano,Doktor
+833,Östra Karup,MINI Cooper Cabrio,Magister
+834,Laxå,Peugeot 605,Magister
+835,Årjäng,Peugeot 2008,Doktor
+836,Onsala,Suzuki Liana,Licentiat
+837,Östnor,Citroën C4 Coupé,Licentiat
+838,Västra Bispgården,Opel Agila,Doktor
+839,Toarp,Mazda MPV,Docent
+840,Skärblacka,Nissan Cabstar TL2 Valnik,Doktor
+841,Aneby,Nissan Cabstar TL2 Valnik,Doktor
+842,Kisa,Seat Leon,Magister
+843,Moholm,Opel Campo,Magister
+844,Lugnet och Skälsmara,Ford Transit Connect LWB,Doktor
+845,Svärtinge,Volkswagen Fox,Docent
+846,Skillingaryd,Peugeot RCZ,Doktor
+847,Förslöv,Volkswagen Lupo,Licentiat
+848,Stångby,Ford Explorer,Licentiat
+849,Rejmyre,Seat Altea XL,Docent
+850,Åsen,Volkswagen Passat Variant Van,Docent
+851,Hjo,Jeep Commander,Doktor
+852,Otterbäcken,Subaru Impreza Wagon,Licentiat
+853,Gothenburg,Daewoo Kalos,Magister
+854,Norra Åsum,Opel Movano,Magister
+855,Harbo,Alfa Romeo 159 Sportwagon,Doktor
+856,Hemmesta,Porsche Cayman,Magister
+857,Holmsund,MINI Cooper S Cabrio,Licentiat
+858,Husum,Peugeot 205,Magister
+859,Kållered,Volkswagen Caddy,Docent
+860,Lugnås,Audi A8,Licentiat
+861,Finsta,Volvo XC70,Licentiat
+862,Misterhult,Nissan Sunny,Docent
+863,Lillpite,Volvo C70 Coupé,Licentiat
+864,Steninge,Mazda Xedox 6,Licentiat
+865,Sävsjö,Alfa Romeo Giulietta,Licentiat
+866,Kärna,Chevrolet Evanda,Magister
+867,Hamrångefjärden,Citroën C2,Doktor
+868,Träslövsläge,Nissan Almera,Magister
+869,Nordmark,Toyota Hiace,Licentiat
+870,Kosta,Nissan Pixo,Magister
+871,Upplands Väsby,Toyota MR2,Doktor
+872,Gävle,BMW Rad 1,Doktor
+873,Borås,Chevrolet Camaro,Docent
+874,Rosenlund,Chrysler PT Cruiser,Doktor
+875,Immeln,Fiat Punto,Docent
+876,Tågarp,Volkswagen Jetta,Doktor
+877,Ramsele,Lexus LX,Docent
+878,Roma (Romakloster),Mercedes-Benz 115,Docent
+879,Östra Husby,MINI One D,Magister
+880,Enviken,Volkswagen Polo Variant,Docent
+881,Nyköping,Chevrolet Evanda,Doktor
+882,Gnarp,Audi TT Coupé,Docent
+883,Harlösa,Chevrolet Cruze,Magister
+884,Göta,Honda FR-V,Licentiat
+885,Hudiksvall,Mercedes-Benz GL,Docent
+886,Ludvika,Fiat 126,Licentiat
+887,Läckeby,Mercedes-Benz 230 - 300 CE Coupé,Licentiat
+888,Uddevalla,Mercedes-Benz 190 E,Magister
+889,Främmestad,Škoda Fabia Combi,Magister
+890,Värsås,Volvo 360,Magister
+891,Billdal,Subaru Tribeca B9,Doktor
+892,Skottsund,Mazda CX-7,Doktor
+893,Buerås,Rover 620,Licentiat
+894,Träslövsläge,BMW M3,Licentiat
+895,Ås,Jaguar XKR Convertible,Doktor
+896,Häljarp,Opel Kadett,Docent
+897,Hovmantorp,Ford Maverick,Magister
+898,Husby,Kia Sephia,Licentiat
+899,Hittarp,Fiat Strada,Licentiat
+900,Hillared,Hyundai Elantra,Doktor
+901,Svanesund,Volvo C70 Coupé,Docent
+902,Vaplan,Toyota Sequoia,Doktor
+903,Kolbäck,Renault Mascott,Licentiat
+904,Alvik,Peugeot 307 CC,Docent
+905,Fågelfors,Volkswagen Fox,Doktor
+906,Bredbyn,Peugeot 205,Magister
+907,Västermyckeläng,BMW M5,Docent
+908,Äppelbo,Citroën Xsara,Docent
+909,Grebo,Jaguar XJ8,Magister
+910,Kyrkhult,Jeep Compass,Doktor
+911,Diseröd,Fiat Qubo,Licentiat
+912,Mölltorp,Citroën C4 Grand Picasso,Magister
+913,Balsby,Mercedes-Benz Trieda E,Doktor
+914,Aspås,Kia Venga,Docent
+915,Otterbäcken,Mercedes-Benz CLS,Docent
+916,Stava,Renault Scénic,Licentiat
+917,Timmele,Daewoo Nexia,Docent
+918,Hedenäset,Opel Vivaro Kombi,Licentiat
+919,Saxtorpsskogen,BMW X5,Doktor
+920,Hjortkvarn,Audi A6 Avant,Licentiat
+921,Uppsala,Seat Alhambra,Magister
+922,Tråvad,BMW Rad 5 GT,Docent
+923,Tingsryd,Renault Clio,Doktor
+924,Fågelsta,Fiat Sedici,Magister
+925,Väröbacka,Ford Aerostar,Licentiat
+926,Mölnlycke,Opel Vivaro Kombi,Doktor
+927,Mörsil,Saab 9-5,Magister
+928,Mellerud,Hyundai i20,Magister
+929,Årsunda,Ford Escort kombi,Magister
+930,Önnestad,Ford Cortina,Magister
+931,Stoby,Mercedes-Benz Sprinter,Licentiat
+932,Bygdeå,Alfa Romeo MiTo,Licentiat
+933,Emmaljunga,BMW Rad 6 Cabrio,Docent
+934,Äsköping,Škoda Felicia,Doktor
+935,Torpshammar,Subaru SVX,Licentiat
+936,Västerhus,Alfa Romeo Giulietta,Docent
+937,Påläng,Nissan Almera Tino,Licentiat
+938,Grevie och Beden,Citroën Evasion,Doktor
+939,Olstorp,BMW Rad 2,Doktor
+940,Råda,Dacia Sandero,Doktor
+941,Valdemarsvik,Nissan Sunny,Docent
+942,Svanesund,Renault Fluence,Docent
+943,Olshammar,Volvo XC60,Docent
+944,Alberga,Toyota Sequoia,Doktor
+945,Östhammar,Suzuki Grand Vitara,Licentiat
+946,Ed,Škoda Fabia Sedan,Magister
+947,Tenhult,Mercedes-Benz Trieda B,Licentiat
+948,Klingsta och Allsta,Volkswagen Passat Variant,Docent
+949,Marma,Nissan Tiida,Magister
+950,Gottne,Mazda B-Fighter,Licentiat
+951,Juniskär,Rover 416,Doktor
+952,Nyköping,Seat Cordoba Vario,Licentiat
+953,Abborrberget,Nissan Micra,Docent
+954,Lugnås,Volkswagen Jetta,Doktor
+955,Skedvi kyrkby,Mercedes-Benz CLK Coupé,Licentiat
+956,Benareby,Toyota Hilux,Docent
+957,Dingtuna,Mercedes-Benz AMG GT,Magister
+958,Spångsholm,Ford F-250,Docent
+959,Järlåsa,Mitsubishi L200,Magister
+960,Skagersvik,Fiat Florino Combi,Docent
+961,Ramvik,Mercedes-Benz SLR,Docent
+962,Margretetorp,Dacia Solenza,Doktor
+963,Gullspång,Fiat Brava,Licentiat
+964,Nås,Opel Astra caravan,Doktor
+965,Fårösund,Jeep Wrangler,Doktor
+966,Tvärålund,Mercedes-Benz 230 - 300 CE Coupé,Doktor
+967,Fors,Mercedes-Benz Sprinter,Docent
+968,Grevie och Beden,Mercedes-Benz 190 D,Docent
+969,Yngsjö,Fiat Punto Cabriolet,Docent
+970,Forserum,Mitsubishi L200,Licentiat
+971,Håbo-Tibble kyrkby,Volvo 850 kombi,Magister
+972,Rejmyre,Fiat Palio Weekend,Magister
+973,Dvärsätt,Mitsubishi L200,Docent
+974,Kärsta och Bredsdal,Škoda Rapid,Doktor
+975,Långviksmon,Seat Inca,Doktor
+976,Nedansjö,Peugeot 308 SW,Magister
+977,Rottneros,BMW Z3 Roadster,Docent
+978,Upplands Väsby,Renault Fluence,Magister
+979,Örslösa,Ford Tourneo Connect,Magister
+980,Utby,Alfa Romeo 155,Licentiat
+981,Johansfors,Hummer H2,Magister
+982,Vrigstad,Dacia Lodgy,Licentiat
+983,Nybrostrand,Volkswagen Golf Variant,Licentiat
+984,Vidja,Audi S4/S4 Avant,Doktor
+985,Undersåker,Alfa Romeo 164,Docent
+986,Frillesås,Fiat Palio Weekend,Docent
+987,Hallstahammar,Seat Cordoba Vario,Docent
+988,Åbytorp,Dodge Magnum,Licentiat
+989,Mjällom,Toyota Corolla,Doktor
+990,Torup,Subaru Forester,Licentiat
+991,Muskö,Hyundai Galloper,Magister
+992,Koppom,Volkswagen Crafter Kombi,Docent
+993,Godegård,Toyota MR2,Docent
+994,Askersund,Opel Omega,Doktor
+995,Hogstad,Kia Besta,Docent
+996,Tumba,Mazda 5,Doktor
+997,Ljungskile,Opel Mokka,Magister
+998,Gäddede,Seat Cordoba,Doktor
+999,Bredared,Volkswagen New Beetle,Docent

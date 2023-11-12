@@ -15,7 +15,7 @@
 <body>
     <div class="container">
         <h1>Hello World</h1>
-        <form action="{% url 'generate_csv'%}">
+        <form action="{% url 'generate_csv'%}" method="get">
             <select id="Country" name="Country">
                 <option value="" disabled selected>CHOOSE YOUR COUNTRY REGION:</option>
                 <option value="Czech">Czech</option>
@@ -59,20 +59,50 @@
         {% else %}
             <p>Current Locale is:</p>
         {% endif %} -->
-        
-        
-            <input placeholder="Enter No. of Columns that you want" type="number" name="columns" class="columns" id="columns">
  
             <input placeholder="Enter No. of rows that you want" type="number" name="rows" class="rows" id="rows">
-           
-        
-            <input placeholder="Enter the main Domain (as name)" type="text" name="Domain" class="Domain" id="Domain">
-            
-            <input placeholder="Enter the Sub Category (as number)" type="number" name="Subcategory" class="Subcategory" id="Subcategory">
 
+            <div id="columnInputs">
+
+            </div>
+          
+            <!-- <input placeholder="Enter the main Domain (as name)" type="text" name="Domain" class="Domain" id="Domain">
+            
+            <input placeholder="Enter the Sub Category (as number)" type="number" name="Subcategory" class="Subcategory" id="Subcategory"> -->
+        
+            <button type="button" class="btn btn-outline-light" onclick="addColumn()">Add Column</button>
+            <input type="hidden" name="num_columns" id="num_columns" value="0">
                 {% csrf_token %}
             <button type="submit" class="btn btn-outline-light">Generate CSV</button>
         </form>
     </div>
+    <script>
+        let columnCount=0;
+        function addColumn(){
+            var columnInputs = document.getElementById("columnInputs")
+            var i = columnCount;
+
+            var domainInput = document.createElement("input");
+            domainInput.placeholder = "Enter the main Domain (as name)";
+            domainInput.type = "text";
+            domainInput.name = `Domain_${i}`;
+            domainInput.classList.add(`Domain_${i}`);
+            domainInput.id = `Domain_${i}`;
+
+            var subcategoryinput = document.createElement("input");
+            subcategoryinput.placeholder = "Enter the subcategory (as number)";
+            subcategoryinput.type = "number";
+            subcategoryinput.name = `Subcategory_${i}`;
+            subcategoryinput.classList.add(`Subcategory_${i}`);
+            subcategoryinput.id = `Subcategory_${i}`;
+
+            columnInputs.appendChild(domainInput);
+            columnInputs.appendChild(subcategoryinput);
+
+            columnCount++;
+            document.getElementById("num_columns").value=columnCount;
+        }
+    </script>
 </body>
 </html>
+

@@ -102,101 +102,103 @@ def generate_csv(request):
     transport={1: 'airplane', 2: 'car', 3: 'manufacturer', 4: 'validate_enum'}
     final={"Address":address,"Code":code,"Cryptographic":cryptographic,"DateTime":datetime,"Development":development,"File":file,"Finance":finance,"Food":food,"Hardware":hardware,"Internet":internet,"Numeric":numeric,"Path":path,"Payment":payment,"Person":person,"Science":science,"Text":text,"Transport":transport}
     df = pd.DataFrame()
-    columns = int(request.GET.get('columns'))
+    num_columns = int(request.GET.get('num_columns'))
     rows = int(request.GET.get('rows'))
-    a = request.GET.get('Domain')
-    b = int(request.GET.get('Subcategory'))
-    
-    c = final[a][b]
-    row_index=0
-    for n in range(rows):
-        if a == "Finance":
-            if hasattr(generic.finance, c) and callable(getattr(generic.finance, c)):
-                method_to_call = getattr(generic.finance, c)
-                df.at[row_index, c] = method_to_call()
-                row_index+=1
-        elif a == "Address":
-            if hasattr(generic.address, c) and callable(getattr(generic.address, c)):
-                method2_to_call = getattr(generic.address, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
-        elif a == "Code":
-            if hasattr(generic.code, c) and callable(getattr(generic.code, c)):
-                method2_to_call = getattr(generic.code, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
-        elif a == "Crypotraphic":
-            if hasattr(generic.cryptographic, c) and callable(getattr(generic.cryptographic, c)):
-                method2_to_call = getattr(generic.cryptographic, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
-        elif a == "DateTime":
-            if hasattr(generic.datetime, c) and callable(getattr(generic.datetime, c)):
-                method2_to_call = getattr(generic.datetime, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
-        elif a == "Development":
-            if hasattr(generic.development, c) and callable(getattr(generic.development, c)):
-                method2_to_call = getattr(generic.development, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
-        elif a == "File":
-            if hasattr(generic.file, c) and callable(getattr(generic.file, c)):
-                method2_to_call = getattr(generic.file, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
-        elif a == "Food":
-            if hasattr(generic.food, c) and callable(getattr(generic.food, c)):
-                method2_to_call = getattr(generic.food, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
-        elif a == "Hardware":
-            if hasattr(generic.hardware, c) and callable(getattr(generic.hardware, c)):
-                method2_to_call = getattr(generic.hardware, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
-        elif a == "Internet":
-            if hasattr(generic.internet, c) and callable(getattr(generic.internet, c)):
-                method2_to_call = getattr(generic.internet, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
-        elif a == "Science":
-            if hasattr(generic.science, c) and callable(getattr(generic.science, c)):
-                method2_to_call = getattr(generic.science, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
-        elif a == "Numeric":
-            if hasattr(generic.numeric, c) and callable(getattr(generic.numeric, c)):
-                method2_to_call = getattr(generic.numeric, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
-        elif a == "Path":
-            if hasattr(generic.path, c) and callable(getattr(generic.path, c)):
-                method2_to_call = getattr(generic.path, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
-        elif a == "Payment":
-            if hasattr(generic.payment, c) and callable(getattr(generic.payment, c)):
-                method2_to_call = getattr(generic.payment, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
-        elif a == "Text":
-            if hasattr(generic.text, c) and callable(getattr(generic.text, c)):
-                method2_to_call = getattr(generic.text, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
-        elif a == "Person":
-            if hasattr(generic.person, c) and callable(getattr(generic.person, c)):
-                method2_to_call = getattr(generic.person, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
-        elif a == "Transport":
-            if hasattr(generic.transport, c) and callable(getattr(generic.transport, c)):
-                method2_to_call = getattr(generic.transport, c)
-                df.at[row_index, c] = method2_to_call()
-                row_index+=1
+    for i in range(num_columns):
+        a = request.GET.get(f'Domain_{i}')
+        b = int(request.GET.get(f'Subcategory_{i}'))
+        
+        c = final[a][b]
+        row_index=0
+        for n in range(rows):
+            if a == "Finance":
+                if hasattr(generic.finance, c) and callable(getattr(generic.finance, c)):
+                    method_to_call = getattr(generic.finance, c)
+                    df.loc[row_index, f'{a}_{c}'] = method_to_call()
+                    row_index+=1
+            elif a == "Address":
+                if hasattr(generic.address, c) and callable(getattr(generic.address, c)):
+                    method2_to_call = getattr(generic.address, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+            elif a == "Code":
+                if hasattr(generic.code, c) and callable(getattr(generic.code, c)):
+                    method2_to_call = getattr(generic.code, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+            elif a == "Cryptographic":
+                if hasattr(generic.cryptographic, c) and callable(getattr(generic.cryptographic, c)):
+                    method2_to_call = getattr(generic.cryptographic, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+            elif a == "DateTime":
+                if hasattr(generic.datetime, c) and callable(getattr(generic.datetime, c)):
+                    method2_to_call = getattr(generic.datetime, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+            elif a == "Development":
+                if hasattr(generic.development, c) and callable(getattr(generic.development, c)):
+                    method2_to_call = getattr(generic.development, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+            elif a == "File":
+                if hasattr(generic.file, c) and callable(getattr(generic.file, c)):
+                    method2_to_call = getattr(generic.file, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+            elif a == "Food":
+                if hasattr(generic.food, c) and callable(getattr(generic.food, c)):
+                    method2_to_call = getattr(generic.food, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+            elif a == "Hardware":
+                if hasattr(generic.hardware, c) and callable(getattr(generic.hardware, c)):
+                    method2_to_call = getattr(generic.hardware, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+            elif a == "Internet":
+                if hasattr(generic.internet, c) and callable(getattr(generic.internet, c)):
+                    method2_to_call = getattr(generic.internet, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+            elif a == "Science":
+                if hasattr(generic.science, c) and callable(getattr(generic.science, c)):
+                    method2_to_call = getattr(generic.science, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+            elif a == "Numeric":
+                if hasattr(generic.numeric, c) and callable(getattr(generic.numeric, c)):
+                    method2_to_call = getattr(generic.numeric, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+            elif a == "Path":
+                if hasattr(generic.path, c) and callable(getattr(generic.path, c)):
+                    method2_to_call = getattr(generic.path, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+            elif a == "Payment":
+                if hasattr(generic.payment, c) and callable(getattr(generic.payment, c)):
+                    method2_to_call = getattr(generic.payment, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+            elif a == "Text":
+                if hasattr(generic.text, c) and callable(getattr(generic.text, c)):
+                    method2_to_call = getattr(generic.text, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+            elif a == "Person":
+                if hasattr(generic.person, c) and callable(getattr(generic.person, c)):
+                    method2_to_call = getattr(generic.person, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+            elif a == "Transport":
+                if hasattr(generic.transport, c) and callable(getattr(generic.transport, c)):
+                    method2_to_call = getattr(generic.transport, c)
+                    df.loc[row_index, f'{a}_{c}'] = method2_to_call()
+                    row_index+=1
+    print(df)
     df.to_csv("Dataset2.csv")
-    print(x, rows, columns)
+
     filename = "Dataset2.csv"
     response = HttpResponse(content_type='text/csv')
     response['Content-Disposition'] = 'attachment; filename="Dataset2.csv"'

@@ -1,14 +1,15 @@
 {
     "builds": [
       {
-        "src": "dataset/wsgi.py",
-        "use": "@vercel/python"
+        "src": "Test_data_mimesis/wsgi.py",
+        "use": "@vercel/python",
+        "config": { "maxLambdaSize": "15mb", "runtime": "python3.11.5" }
       }
     ],
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "dataset/wsgi.py"
+        "dest": "Test_data_mimesis/wsgi.py"
       }
     ]
 }

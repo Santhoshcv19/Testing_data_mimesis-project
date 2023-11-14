@@ -10,11 +10,23 @@
             background-color: black;
             color: white;
         }
+        table, td, th{
+            border-left: 3px solid white;
+            border: 1px solid white;
+            overflow-x: hidden;
+        }
+        .main{
+            padding-left: 30px;
+            padding-top: 30px;
+        }
+        input{
+            width: 275px;
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Hello World</h1>
+    <div class="main">
+        <h1>Random Data Generator</h1>
         <form action="{% url 'generate_csv'%}" method="get">
             <select id="Country" name="Country">
                 <option value="" disabled selected>CHOOSE YOUR COUNTRY REGION:</option>
@@ -95,6 +107,630 @@
                 {% csrf_token %}
             <button type="submit" class="btn btn-outline-light">Generate CSV</button>
         </form>
+        <br>
+        <h1>Subcategories Menu (Refer this table for Subcategory number):</h1>
+        <table >
+            <tr>
+                <th>S.No:</th>
+                <th>Finance</th>
+                <th>Address</th>
+                <th>Code</th>
+                <th>Cryptographic</th>
+                <th>DateTime</th>
+                <th>Development</th>
+                <th>File</th>
+                <th>Food</th>
+                <th>Hardware</th>
+                <th>Internet</th>
+                <th>Science</th>
+                <th>Numeric</th>
+                <th>Path</th>
+                <th>Payment</th>
+                <th>Text</th>
+                <th>Person</th>
+                <th>Transport</th>
+            </tr>
+            <tr>
+                <td>1.</td>
+                <td>Bank</td>
+                <td>Address</td>
+                <td>EAN</td>
+                <td>Hash</td>
+                <td>Bulk Create Datetimes</td>
+                <td>Boolean</td>
+                <td>Extension</td>
+                <td>Dish</td>
+                <td>CPU</td>
+                <td>Content Type</td>
+                <td>DNA Sequence</td>
+                <td>Complex Number</td>
+                <td>Dev Dir</td>
+                <td>Bitcoin Address</td>
+                <td>Alphabet</td>
+                <td>Academic Degree</td>
+                <td>Airplane</td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Company</td>
+                <td>Calling Code</td>
+                <td>IMEI</td>
+                <td>Mnemonic Phrase</td>
+                <td>Century</td>
+                <td>OS</td>
+                <td>File Name</td>
+                <td>Drink</td>
+                <td>CPU Codename</td>
+                <td>Emoji</td>
+                <td>Measure Unit</td>
+                <td>Complexes</td>
+                <td>Home</td>
+                <td>CID</td>
+                <td>Answer</td>
+                <td>Age</td>
+                <td>Car</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Company Type</td>
+                <td>City</td>
+                <td>ISBN</td>
+                <td>Token Bytes</td>
+                <td>Date</td>
+                <td>Programming Language</td>
+                <td>Mime Type</td>
+                <td>Fruit</td>
+                <td>CPU Frequency</td>
+                <td>Hashtags</td>
+                <td>Metric Prefix</td>
+                <td>Decimal Number</td>
+                <td>Platform</td>
+                <td>Credit Car Expiration Date</td>
+                <td>Color</td>
+                <td>Blood Type</td>
+                <td>Manufacturer</td>
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Cryptocurrency ISO Code</td>
+                <td>Continent</td>
+                <td>ISSN</td>
+                <td>Token Hex</td>
+                <td>DateTime</td>
+                <td>Software License</td>
+                <td>Size</td>
+                <td>Get Current Locale</td>
+                <td>Generation</td>
+                <td>Hostname</td>
+                <td>RNA Sequence</td>
+                <td>Decimals</td>
+                <td>Project Dir</td>
+                <td>Credit Car Network</td>
+                <td>Get Current Locale</td>
+                <td>Email</td>
+                <td>Validate ENUM</td>
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Cryptocurrency Symbol</td>
+                <td>Coordinates</td>
+                <td>Locale Code</td>
+                <td>Token URLSafe</td>
+                <td>Day of Month</td>
+                <td>Version</td>
+                <td> </td>
+                <td>Spices</td>
+                <td>Graphics</td>
+                <td>HTTP Method</td>
+                <td> </td>
+                <td>Float Number</td>
+                <td>Root</td>
+                <td>Credit Car Number</td>
+                <td>Hex Color</td>
+                <td>First Name</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Currency ISO Code</td>
+                <td>Country</td>
+                <td>PIN</td>
+                <td>UUId</td>
+                <td>Day of Week</td>
+                <td> </td>
+                <td> </td>
+                <td>Vegetable</td>
+                <td>Manufacturer</td>
+                <td>HTTP Request Headers</td>
+                <td> </td>
+                <td>Floats</td>
+                <td>User</td>
+                <td>Credit Car Owner</td>
+                <td>Level</td>
+                <td>Full Name</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Currency Symbol</td>
+                <td>Country Code</td>
+                <td> </td>
+                <td> </td>
+                <td>Formatted Date</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Phone Model</td>
+                <td>HTTP Response Headers</td>
+                <td> </td>
+                <td>Increment</td>
+                <td>Users Folder</td>
+                <td>CVV</td>
+                <td>Quote</td>
+                <td>Gender</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>8.</td>
+                <td>Extract</td>
+                <td>Federal Subject</td>
+                <td> </td>
+                <td> </td>
+                <td>Formatted DateTime</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>RAM Size</td>
+                <td>HTTP Status Code</td>
+                <td> </td>
+                <td>Integer Number</td>
+                <td> </td>
+                <td>Ethereum Address</td>
+                <td>RGB Color</td>
+                <td>Get Current Locale</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>9.</td>
+                <td>Get Current Locale</td>
+                <td>Get Current Locale</td>
+                <td> </td>
+                <td> </td>
+                <td>Formatted Time</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>RAM Type</td>
+                <td>HTTP Status Message</td>
+                <td> </td>
+                <td>Integers</td>
+                <td> </td>
+                <td>PayPal</td>
+                <td>Sentence</td>
+                <td>Height</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>10.</td>
+                <td>Locale</td>
+                <td>Latitude</td>
+                <td> </td>
+                <td> </td>
+                <td>Get Current Locale</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Resolution</td>
+                <td>IP V4</td>
+                <td> </td>
+                <td>Matrix</td>
+                <td> </td>
+                <td> </td>
+                <td>Text</td>
+                <td>Identifier</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>11.</td>
+                <td>Price</td>
+                <td>Locale</td>
+                <td> </td>
+                <td> </td>
+                <td>GMT Offset</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Screen Size</td>
+                <td>IP V4 Object</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Title</td>
+                <td>Language</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>12.</td>
+                <td>Price in BTC</td>
+                <td>Longitude</td>
+                <td> </td>
+                <td> </td>
+                <td>Locale</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>SSD or HDD</td>
+                <td>IP V4 with Port</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Word</td>
+                <td>Last Name</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>13.</td>
+                <td>Stock Exchange</td>
+                <td>Postal Code</td>
+                <td> </td>
+                <td> </td>
+                <td>Month</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>IP V6</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Words</td>
+                <td>Locale</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>14.</td>
+                <td>Stock Name</td>
+                <td>Prefecture</td>
+                <td> </td>
+                <td> </td>
+                <td>Periodicity</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>IP V6 Object</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Name</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>15.</td>
+                <td>Stock Ticker</td>
+                <td>Province</td>
+                <td> </td>
+                <td> </td>
+                <td>Time</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Mac Address</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Nationality</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>16.</td>
+                <td> </td>
+                <td>Region</td>
+                <td> </td>
+                <td> </td>
+                <td>Timestamp</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Path</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Occupation</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>17.</td>
+                <td> </td>
+                <td>State</td>
+                <td> </td>
+                <td> </td>
+                <td>Timezone</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Port</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Override Locale</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>18.</td>
+                <td> </td>
+                <td>Street Name</td>
+                <td> </td>
+                <td> </td>
+                <td>Validate ENUM</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Public DNS</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Password</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>19.</td>
+                <td> </td>
+                <td>Street Number</td>
+                <td> </td>
+                <td> </td>
+                <td>Week Date</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Query Parameters</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Phone Number</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>20.</td>
+                <td> </td>
+                <td>Street Suffix</td>
+                <td> </td>
+                <td> </td>
+                <td>Year</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Query String</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Political Views</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>21.</td>
+                <td> </td>
+                <td>Zip Code</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Slug</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Sex</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>22.</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Stock Image URL</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Surname</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>23.</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>TLD</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Telephone</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>24.</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Top Level Domain</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Title</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>25.</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>URI</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>University</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>26.</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>URL</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Username</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>27.</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>User Agent</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Views On</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>28.</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Weight</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>29.</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Work Experience</td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td>30.</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td>Worldview</td>
+                <td> </td>
+            </tr>
+        </table>
     </div>
     <script>
         let columnCount=1;

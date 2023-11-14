@@ -61,9 +61,28 @@
         {% endif %} -->
  
             <input placeholder="Enter No. of rows that you want" type="number" name="rows" class="rows" id="rows">
-
             <div id="columnInputs">
-                <input placeholder="Enter the main Domain (as name)" type="text" name='Domain_0' class='Domain_0' id='Domain_0'>
+                <!-- <input placeholder="Enter the main Domain (as name)" type="text" name='Domain_0' class='Domain_0' id='Domain_0'> -->
+                <select id='Domain_0' name='Domain_0'>
+                    <option value="" disabled selected>Choose your domain</option>
+                    <option value="Finance">Finance</option>
+                    <option value="Address">Address</option>
+                    <option value="Code">Code</option>
+                    <option value="Cryptographic">Cryptographic</option>
+                    <option value="DateTime">DateTime</option>
+                    <option value="Development">Development</option>
+                    <option value="File">File</option>
+                    <option value="Food">Food</option>
+                    <option value="Hardware">Hardware</option>
+                    <option value="Internet">Internet</option>
+                    <option value="Science">Science</option>
+                    <option value="Numeric">Numeric</option>
+                    <option value="Path">Path</option>
+                    <option value="Payment">Payment</option>
+                    <option value="Text">Text</option>
+                    <option value="Person">Person</option>
+                    <option value="Transport">Transport</option>
+                </select>
                 <input placeholder="Enter the Subcategory (as number)" type="number" name="Subcategory_0" class='Subcategory_0' id="Subcategory_0">
             </div>
           
@@ -83,7 +102,63 @@
             var columnInputs = document.getElementById("columnInputs")
             var i = columnCount;
 
-            var domainInput = document.createElement("input");
+            var domainInput = document.createElement("select");
+            var domainInput0 = document.createElement("option");
+            domainInput0.disabled = true;
+            domainInput0.selected = true;
+            domainInput0.value = "";
+            domainInput0.innerHTML = "Choose Your Domain";
+            var domainInput1 = document.createElement("option");
+            domainInput1.value = "Finance";
+            domainInput1.innerHTML = "Finance";
+            var domainInput2 = document.createElement("option");
+            domainInput2.value = "Address";
+            domainInput2.innerHTML = "Address";
+            var domainInput3 = document.createElement("option");
+            domainInput3.value = "Code";
+            domainInput3.innerHTML = "Code";
+            var domainInput4 = document.createElement("option");
+            domainInput4.value = "Cryptographic";
+            domainInput4.innerHTML = "Cryptographic";
+            var domainInput5 = document.createElement("option");
+            domainInput5.value = "DateTime";
+            domainInput5.innerHTML = "DateTime";
+            var domainInput6 = document.createElement("option");
+            domainInput6.value = "Development";
+            domainInput6.innerHTML = "Development";
+            var domainInput7 = document.createElement("option");
+            domainInput7.value = "File";
+            domainInput7.innerHTML = "File";
+            var domainInput8 = document.createElement("option");
+            domainInput8.value = "Food";
+            domainInput8.innerHTML = "Food";
+            var domainInput9 = document.createElement("option");
+            domainInput9.value = "Hardware";
+            domainInput9.innerHTML = "Hardware";
+            var domainInput10 = document.createElement("option");
+            domainInput10.value = "Internet";
+            domainInput10.innerHTML = "Internet";
+            var domainInput11 = document.createElement("option");
+            domainInput11.value = "Science";
+            domainInput11.innerHTML = "Science";
+            var domainInput12 = document.createElement("option");
+            domainInput12.value = "Numeric";
+            domainInput12.innerHTML = "Numeric";
+            var domainInput13 = document.createElement("option");
+            domainInput13.value = "Path";
+            domainInput13.innerHTML = "Path";
+            var domainInput14 = document.createElement("option");
+            domainInput14.value = "Payment";
+            domainInput14.innerHTML = "Payment";
+            var domainInput15 = document.createElement("option");
+            domainInput15.value = "Text";
+            domainInput15.innerHTML = "Text";
+            var domainInput16 = document.createElement("option");
+            domainInput16.value = "Person";
+            domainInput16.innerHTML = "Person";
+            var domainInput17 = document.createElement("option");
+            domainInput17.value = "Transport";
+            domainInput17.innerHTML = "Transport";
             domainInput.placeholder = "Enter the main Domain (as name)";
             domainInput.type = "text";
             domainInput.name = `Domain_${i}`;
@@ -98,6 +173,24 @@
             subcategoryinput.id = `Subcategory_${i}`;
 
             columnInputs.appendChild(domainInput);
+            domainInput.appendChild(domainInput0);
+            domainInput.appendChild(domainInput1);
+            domainInput.appendChild(domainInput2);
+            domainInput.appendChild(domainInput3);
+            domainInput.appendChild(domainInput4);
+            domainInput.appendChild(domainInput5);
+            domainInput.appendChild(domainInput6);
+            domainInput.appendChild(domainInput7);
+            domainInput.appendChild(domainInput8);
+            domainInput.appendChild(domainInput9);
+            domainInput.appendChild(domainInput10);
+            domainInput.appendChild(domainInput11);
+            domainInput.appendChild(domainInput12);
+            domainInput.appendChild(domainInput13);
+            domainInput.appendChild(domainInput14);
+            domainInput.appendChild(domainInput15);
+            domainInput.appendChild(domainInput16);
+            domainInput.appendChild(domainInput17);
             columnInputs.appendChild(subcategoryinput);
 
             
